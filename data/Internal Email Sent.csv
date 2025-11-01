@@ -1,0 +1,401 @@
+﻿Transaction_id,DateTime,Campaign_name ,Subject_line ,Status,Source,HCP_ID
+A101,24/08/25 20:19,ABC drug launch,Why choose ABC?,Sent,internal,1023303038
+A101,24/08/25 3:22,ABC med awareness,Latest research on ABC,Delivered,internal,1023303038
+A102,24/08/25 22:10,ABC drug launch,Why choose ABC?,Sent,internal,1023057429
+A102,24/08/25 9:58,ABC drug launch,Why choose ABC?,Delivered,internal,1023057429
+A103,24/08/25 18:59,ABC med awareness,Latest research on ABC,Delivered,internal,1023193618
+A103,24/08/25 7:38,ABC drug launch,Why choose ABC?,Sent,internal,1023193618
+A104,24/08/25 9:34,ABC drug launch,Why choose ABC?,Delivered,internal,1023281517
+A104,24/08/25 11:36,ABC med awareness,Latest research on ABC,Delivered,internal,1023281517
+A105,24/08/25 14:06,ABC drug launch,Why choose ABC?,Delivered,internal,1023475268
+A105,24/08/25 8:27,ABC med awareness,Latest research on ABC,Sent,internal,1023475268
+A106,24/08/25 13:00,ABC med awareness,Latest research on ABC,Delivered,internal,1023856853
+A106,24/08/25 6:26,ABC drug launch,Why choose ABC?,Delivered,internal,1023856853
+A107,24/08/25 21:08,ABC med awareness,Latest research on ABC,Sent,internal,1023575098
+A107,24/08/25 2:35,ABC med awareness,Latest research on ABC,Delivered,internal,1023575098
+A108,24/08/25 8:29,ABC drug launch,Why choose ABC?,Delivered,internal,1023073716
+A108,24/08/25 22:33,ABC drug launch,Why choose ABC?,Delivered,internal,1023073716
+A109,24/08/25 4:30,ABC med awareness,Latest research on ABC,Sent,internal,1023748479
+A109,24/08/25 11:54,ABC drug launch,Why choose ABC?,Sent,internal,1023748479
+A110,24/08/25 18:46,ABC med awareness,Latest research on ABC,Sent,internal,1023266838
+A110,24/08/25 6:39,ABC drug launch,Why choose ABC?,Delivered,internal,1023266838
+A111,24/08/25 16:09,ABC med awareness,Latest research on ABC,Delivered,internal,1023131228
+A111,24/08/25 12:36,ABC med awareness,Latest research on ABC,Delivered,internal,1023131228
+A112,24/08/25 22:05,ABC drug launch,Why choose ABC?,Delivered,internal,1023385872
+A112,24/08/25 20:51,ABC drug launch,Why choose ABC?,Delivered,internal,1023385872
+A113,24/08/25 4:24,ABC drug launch,Why choose ABC?,Sent,internal,1023537504
+A113,24/08/25 9:33,ABC med awareness,Latest research on ABC,Delivered,internal,1023537504
+A114,24/08/25 23:04,ABC med awareness,Latest research on ABC,Sent,internal,1023264395
+A114,24/08/25 10:16,ABC med awareness,Latest research on ABC,Delivered,internal,1023264395
+A115,24/08/25 19:44,ABC med awareness,Latest research on ABC,Sent,internal,1023983259
+A115,24/08/25 12:37,ABC med awareness,Latest research on ABC,Delivered,internal,1023983259
+A116,24/08/25 6:24,ABC med awareness,Latest research on ABC,Sent,internal,1023156800
+A116,24/08/25 13:00,ABC med awareness,Latest research on ABC,Sent,internal,1023156800
+A117,24/08/25 15:16,ABC med awareness,Latest research on ABC,Delivered,internal,1023045680
+A117,24/08/25 0:20,ABC drug launch,Why choose ABC?,Delivered,internal,1023045680
+A118,24/08/25 5:59,ABC med awareness,Latest research on ABC,Sent,internal,1023669529
+A118,24/08/25 2:51,ABC med awareness,Latest research on ABC,Sent,internal,1023669529
+A119,24/08/25 17:04,ABC drug launch,Why choose ABC?,Delivered,internal,1023136239
+A119,24/08/25 2:33,ABC med awareness,Latest research on ABC,Delivered,internal,1023136239
+A120,24/08/25 5:22,ABC med awareness,Latest research on ABC,Delivered,internal,1023881017
+A120,24/08/25 6:00,ABC drug launch,Why choose ABC?,Delivered,internal,1023881017
+A121,24/08/25 11:35,ABC drug launch,Why choose ABC?,Sent,internal,1023842167
+A121,24/08/25 11:38,ABC drug launch,Why choose ABC?,Delivered,internal,1023842167
+A122,24/08/25 22:24,ABC drug launch,Why choose ABC?,Sent,internal,1023703331
+A122,24/08/25 6:58,ABC med awareness,Latest research on ABC,Sent,internal,1023703331
+A123,24/08/25 11:49,ABC drug launch,Why choose ABC?,Sent,internal,1023916062
+A123,24/08/25 6:41,ABC med awareness,Latest research on ABC,Delivered,internal,1023916062
+A124,24/08/25 1:24,ABC drug launch,Why choose ABC?,Delivered,internal,1023035504
+A124,24/08/25 11:06,ABC drug launch,Why choose ABC?,Sent,internal,1023035504
+A125,24/08/25 23:02,ABC med awareness,Latest research on ABC,Sent,internal,1023621735
+A125,24/08/25 13:35,ABC drug launch,Why choose ABC?,Sent,internal,1023621735
+A126,24/08/25 9:42,ABC med awareness,Latest research on ABC,Sent,internal,1023661480
+A126,24/08/25 16:22,ABC drug launch,Why choose ABC?,Sent,internal,1023661480
+A127,24/08/25 10:45,ABC med awareness,Latest research on ABC,Sent,internal,1023719430
+A127,24/08/25 18:40,ABC drug launch,Why choose ABC?,Delivered,internal,1023719430
+A128,24/08/25 16:59,ABC drug launch,Why choose ABC?,Sent,internal,1023933336
+A128,24/08/25 18:04,ABC drug launch,Why choose ABC?,Delivered,internal,1023933336
+A129,24/08/25 23:31,ABC med awareness,Latest research on ABC,Delivered,internal,1023134779
+A129,24/08/25 5:13,ABC med awareness,Latest research on ABC,Delivered,internal,1023134779
+A130,24/08/25 21:28,ABC drug launch,Why choose ABC?,Delivered,internal,1023927795
+A130,24/08/25 13:55,ABC drug launch,Why choose ABC?,Sent,internal,1023927795
+A131,24/08/25 14:36,ABC med awareness,Latest research on ABC,Sent,internal,1023066943
+A131,24/08/25 3:02,ABC med awareness,Latest research on ABC,Sent,internal,1023066943
+A132,24/08/25 14:12,ABC drug launch,Why choose ABC?,Sent,internal,1023324522
+A132,24/08/25 18:26,ABC drug launch,Why choose ABC?,Delivered,internal,1023324522
+A133,24/08/25 9:31,ABC drug launch,Why choose ABC?,Delivered,internal,1023052720
+A133,24/08/25 14:26,ABC drug launch,Why choose ABC?,Sent,internal,1023052720
+A134,24/08/25 8:20,ABC drug launch,Why choose ABC?,Sent,internal,1023231021
+A134,24/08/25 11:28,ABC drug launch,Why choose ABC?,Sent,internal,1023231021
+A135,24/08/25 23:45,ABC med awareness,Latest research on ABC,Delivered,internal,1023917748
+A135,24/08/25 18:00,ABC drug launch,Why choose ABC?,Sent,internal,1023917748
+A136,24/08/25 21:57,ABC drug launch,Why choose ABC?,Delivered,internal,1023827429
+A136,24/08/25 17:17,ABC drug launch,Why choose ABC?,Sent,internal,1023827429
+A137,24/08/25 15:51,ABC drug launch,Why choose ABC?,Sent,internal,1023396457
+A137,24/08/25 18:41,ABC med awareness,Latest research on ABC,Delivered,internal,1023396457
+A138,24/08/25 16:49,ABC drug launch,Why choose ABC?,Delivered,internal,1023435371
+A138,24/08/25 8:39,ABC drug launch,Why choose ABC?,Sent,internal,1023435371
+A139,24/08/25 0:55,ABC med awareness,Latest research on ABC,Sent,internal,1023602865
+A139,24/08/25 14:11,ABC med awareness,Latest research on ABC,Sent,internal,1023602865
+A140,24/08/25 3:26,ABC med awareness,Latest research on ABC,Sent,internal,1023326799
+A140,24/08/25 20:57,ABC med awareness,Latest research on ABC,Sent,internal,1023326799
+A141,24/08/25 6:59,ABC drug launch,Why choose ABC?,Delivered,internal,1023077846
+A141,24/08/25 21:38,ABC med awareness,Latest research on ABC,Delivered,internal,1023077846
+A142,24/08/25 11:36,ABC drug launch,Why choose ABC?,Delivered,internal,1023628666
+A142,24/08/25 3:32,ABC med awareness,Latest research on ABC,Delivered,internal,1023628666
+A143,24/08/25 1:04,ABC med awareness,Latest research on ABC,Sent,internal,1023649701
+A143,24/08/25 22:23,ABC med awareness,Latest research on ABC,Sent,internal,1023649701
+A144,24/08/25 22:20,ABC drug launch,Why choose ABC?,Sent,internal,1023095327
+A144,24/08/25 18:42,ABC med awareness,Latest research on ABC,Sent,internal,1023095327
+A145,24/08/25 13:37,ABC drug launch,Why choose ABC?,Delivered,internal,1023230399
+A145,24/08/25 0:25,ABC drug launch,Why choose ABC?,Sent,internal,1023230399
+A146,24/08/25 15:49,ABC drug launch,Why choose ABC?,Delivered,internal,1023931813
+A146,24/08/25 16:03,ABC med awareness,Latest research on ABC,Delivered,internal,1023931813
+A147,24/08/25 3:19,ABC med awareness,Latest research on ABC,Sent,internal,1023128824
+A147,24/08/25 10:43,ABC drug launch,Why choose ABC?,Delivered,internal,1023128824
+A148,24/08/25 6:44,ABC med awareness,Latest research on ABC,Delivered,internal,1023425886
+A148,24/08/25 1:45,ABC drug launch,Why choose ABC?,Sent,internal,1023425886
+A149,24/08/25 23:38,ABC med awareness,Latest research on ABC,Sent,internal,1023048099
+A149,24/08/25 0:55,ABC med awareness,Latest research on ABC,Delivered,internal,1023048099
+A150,24/08/25 11:16,ABC med awareness,Latest research on ABC,Delivered,internal,1023442297
+A150,24/08/25 19:22,ABC drug launch,Why choose ABC?,Delivered,internal,1023442297
+A151,24/08/25 20:41,ABC drug launch,Why choose ABC?,Sent,internal,1023460835
+A151,24/08/25 12:49,ABC med awareness,Latest research on ABC,Sent,internal,1023460835
+A152,24/08/25 16:42,ABC med awareness,Latest research on ABC,Sent,internal,1023145357
+A152,24/08/25 16:04,ABC drug launch,Why choose ABC?,Sent,internal,1023145357
+A153,24/08/25 17:34,ABC drug launch,Why choose ABC?,Sent,internal,1023556884
+A153,24/08/25 2:36,ABC drug launch,Why choose ABC?,Delivered,internal,1023556884
+A154,24/08/25 12:50,ABC drug launch,Why choose ABC?,Delivered,internal,1023943760
+A154,24/08/25 10:20,ABC drug launch,Why choose ABC?,Sent,internal,1023943760
+A155,24/08/25 10:23,ABC med awareness,Latest research on ABC,Delivered,internal,1023893404
+A155,24/08/25 18:37,ABC drug launch,Why choose ABC?,Sent,internal,1023893404
+A156,24/08/25 21:42,ABC med awareness,Latest research on ABC,Delivered,internal,1023377679
+A156,24/08/25 6:09,ABC med awareness,Latest research on ABC,Sent,internal,1023377679
+A157,24/08/25 4:42,ABC med awareness,Latest research on ABC,Delivered,internal,1023001746
+A157,24/08/25 19:07,ABC drug launch,Why choose ABC?,Delivered,internal,1023001746
+A158,24/08/25 8:20,ABC drug launch,Why choose ABC?,Delivered,internal,1023885152
+A158,24/08/25 16:52,ABC med awareness,Latest research on ABC,Delivered,internal,1023885152
+A159,24/08/25 23:09,ABC med awareness,Latest research on ABC,Delivered,internal,1023702334
+A159,24/08/25 15:58,ABC drug launch,Why choose ABC?,Sent,internal,1023702334
+A160,24/08/25 17:21,ABC drug launch,Why choose ABC?,Delivered,internal,1023211009
+A160,24/08/25 22:32,ABC med awareness,Latest research on ABC,Sent,internal,1023211009
+A161,24/08/25 11:13,ABC drug launch,Why choose ABC?,Delivered,internal,1023409843
+A161,24/08/25 15:21,ABC med awareness,Latest research on ABC,Sent,internal,1023409843
+A162,24/08/25 5:59,ABC med awareness,Latest research on ABC,Delivered,internal,1023587111
+A162,24/08/25 0:53,ABC med awareness,Latest research on ABC,Sent,internal,1023587111
+A163,24/08/25 8:29,ABC med awareness,Latest research on ABC,Delivered,internal,1023488841
+A163,24/08/25 8:44,ABC drug launch,Why choose ABC?,Sent,internal,1023488841
+A164,24/08/25 8:50,ABC drug launch,Why choose ABC?,Sent,internal,1023548084
+A164,24/08/25 12:41,ABC med awareness,Latest research on ABC,Delivered,internal,1023548084
+A165,24/08/25 22:25,ABC drug launch,Why choose ABC?,Delivered,internal,1023325549
+A165,24/08/25 23:38,ABC drug launch,Why choose ABC?,Sent,internal,1023325549
+A166,24/08/25 16:05,ABC drug launch,Why choose ABC?,Delivered,internal,1023704421
+A166,24/08/25 19:08,ABC drug launch,Why choose ABC?,Sent,internal,1023704421
+A167,24/08/25 14:30,ABC med awareness,Latest research on ABC,Delivered,internal,1023844613
+A167,24/08/25 19:54,ABC drug launch,Why choose ABC?,Sent,internal,1023844613
+A168,24/08/25 0:19,ABC drug launch,Why choose ABC?,Delivered,internal,1023143570
+A168,24/08/25 4:58,ABC med awareness,Latest research on ABC,Delivered,internal,1023143570
+A169,24/08/25 1:19,ABC med awareness,Latest research on ABC,Delivered,internal,1023878716
+A169,24/08/25 14:58,ABC med awareness,Latest research on ABC,Delivered,internal,1023878716
+A170,24/08/25 5:28,ABC drug launch,Why choose ABC?,Delivered,internal,1023241232
+A170,24/08/25 15:00,ABC med awareness,Latest research on ABC,Delivered,internal,1023241232
+A171,24/08/25 8:06,ABC med awareness,Latest research on ABC,Delivered,internal,1023478701
+A171,24/08/25 0:46,ABC med awareness,Latest research on ABC,Sent,internal,1023478701
+A172,24/08/25 22:43,ABC med awareness,Latest research on ABC,Delivered,internal,1023546329
+A172,24/08/25 21:27,ABC med awareness,Latest research on ABC,Sent,internal,1023546329
+A173,24/08/25 7:57,ABC drug launch,Why choose ABC?,Delivered,internal,1023670389
+A173,24/08/25 7:43,ABC drug launch,Why choose ABC?,Sent,internal,1023670389
+A174,24/08/25 7:14,ABC med awareness,Latest research on ABC,Sent,internal,1023913460
+A174,24/08/25 23:25,ABC med awareness,Latest research on ABC,Delivered,internal,1023913460
+A175,24/08/25 13:12,ABC med awareness,Latest research on ABC,Delivered,internal,1023192837
+A175,24/08/25 10:20,ABC drug launch,Why choose ABC?,Delivered,internal,1023192837
+A176,24/08/25 22:01,ABC drug launch,Why choose ABC?,Delivered,internal,1023100277
+A176,24/08/25 10:41,ABC med awareness,Latest research on ABC,Delivered,internal,1023100277
+A177,24/08/25 13:13,ABC drug launch,Why choose ABC?,Sent,internal,1023452078
+A177,24/08/25 6:14,ABC med awareness,Latest research on ABC,Delivered,internal,1023452078
+A178,24/08/25 8:51,ABC med awareness,Latest research on ABC,Delivered,internal,1023806467
+A178,24/08/25 16:22,ABC drug launch,Why choose ABC?,Sent,internal,1023806467
+A179,24/08/25 3:40,ABC drug launch,Why choose ABC?,Sent,internal,1023800812
+A179,24/08/25 6:45,ABC med awareness,Latest research on ABC,Delivered,internal,1023800812
+A180,24/08/25 11:03,ABC med awareness,Latest research on ABC,Sent,internal,1023371595
+A180,24/08/25 13:58,ABC drug launch,Why choose ABC?,Delivered,internal,1023371595
+A181,24/08/25 14:58,ABC drug launch,Why choose ABC?,Delivered,internal,1023370687
+A181,24/08/25 14:11,ABC drug launch,Why choose ABC?,Sent,internal,1023370687
+A182,24/08/25 20:50,ABC med awareness,Latest research on ABC,Sent,internal,1023265185
+A182,24/08/25 2:51,ABC med awareness,Latest research on ABC,Delivered,internal,1023265185
+A183,24/08/25 21:50,ABC med awareness,Latest research on ABC,Sent,internal,1023862772
+A183,24/08/25 4:57,ABC drug launch,Why choose ABC?,Delivered,internal,1023862772
+A184,24/08/25 8:58,ABC med awareness,Latest research on ABC,Delivered,internal,1023966696
+A184,24/08/25 5:25,ABC drug launch,Why choose ABC?,Delivered,internal,1023966696
+A185,24/08/25 14:03,ABC med awareness,Latest research on ABC,Sent,internal,1023911462
+A185,24/08/25 9:30,ABC drug launch,Why choose ABC?,Delivered,internal,1023911462
+A186,24/08/25 21:55,ABC med awareness,Latest research on ABC,Delivered,internal,1023092177
+A186,24/08/25 19:21,ABC med awareness,Latest research on ABC,Delivered,internal,1023092177
+A187,24/08/25 18:03,ABC drug launch,Why choose ABC?,Delivered,internal,1023869546
+A187,24/08/25 9:55,ABC med awareness,Latest research on ABC,Delivered,internal,1023869546
+A188,24/08/25 22:45,ABC med awareness,Latest research on ABC,Delivered,internal,1023618132
+A188,24/08/25 7:42,ABC med awareness,Latest research on ABC,Delivered,internal,1023618132
+A189,24/08/25 15:28,ABC drug launch,Why choose ABC?,Delivered,internal,1023130382
+A189,24/08/25 4:13,ABC drug launch,Why choose ABC?,Delivered,internal,1023130382
+A190,24/08/25 23:02,ABC med awareness,Latest research on ABC,Sent,internal,1023101082
+A190,24/08/25 7:13,ABC med awareness,Latest research on ABC,Delivered,internal,1023101082
+A191,24/08/25 0:20,ABC drug launch,Why choose ABC?,Sent,internal,1023126305
+A191,24/08/25 13:09,ABC drug launch,Why choose ABC?,Sent,internal,1023126305
+A192,24/08/25 8:22,ABC drug launch,Why choose ABC?,Sent,internal,1023348413
+A192,24/08/25 21:35,ABC med awareness,Latest research on ABC,Delivered,internal,1023348413
+A193,24/08/25 4:36,ABC med awareness,Latest research on ABC,Sent,internal,1023660021
+A193,24/08/25 1:32,ABC med awareness,Latest research on ABC,Sent,internal,1023660021
+A194,24/08/25 10:12,ABC drug launch,Why choose ABC?,Delivered,internal,1023433797
+A194,24/08/25 8:17,ABC med awareness,Latest research on ABC,Sent,internal,1023433797
+A195,24/08/25 18:11,ABC drug launch,Why choose ABC?,Delivered,internal,1023849914
+A195,24/08/25 23:16,ABC drug launch,Why choose ABC?,Delivered,internal,1023849914
+A196,24/08/25 18:11,ABC drug launch,Why choose ABC?,Delivered,internal,1023372569
+A196,24/08/25 14:11,ABC med awareness,Latest research on ABC,Delivered,internal,1023372569
+A197,24/08/25 4:25,ABC drug launch,Why choose ABC?,Delivered,internal,1023134210
+A197,24/08/25 7:19,ABC drug launch,Why choose ABC?,Sent,internal,1023134210
+A198,24/08/25 17:52,ABC med awareness,Latest research on ABC,Sent,internal,1023431603
+A198,24/08/25 6:57,ABC med awareness,Latest research on ABC,Sent,internal,1023431603
+A199,24/08/25 14:52,ABC med awareness,Latest research on ABC,Delivered,internal,1023695479
+A199,24/08/25 23:09,ABC drug launch,Why choose ABC?,Sent,internal,1023695479
+A200,24/08/25 17:31,ABC med awareness,Latest research on ABC,Delivered,internal,1023477766
+A200,24/08/25 20:43,ABC drug launch,Why choose ABC?,Sent,internal,1023477766
+A201,24/08/25 6:06,ABC med awareness,Latest research on ABC,Sent,internal,1023852274
+A201,24/08/25 3:29,ABC drug launch,Why choose ABC?,Delivered,internal,1023852274
+A202,24/08/25 5:11,ABC med awareness,Latest research on ABC,Delivered,internal,1023516416
+A202,24/08/25 11:06,ABC med awareness,Latest research on ABC,Delivered,internal,1023516416
+A203,24/08/25 13:53,ABC drug launch,Why choose ABC?,Sent,internal,1023481187
+A203,24/08/25 21:31,ABC med awareness,Latest research on ABC,Delivered,internal,1023481187
+A204,24/08/25 23:05,ABC med awareness,Latest research on ABC,Delivered,internal,1023039547
+A204,24/08/25 12:56,ABC med awareness,Latest research on ABC,Sent,internal,1023039547
+A205,24/08/25 14:05,ABC drug launch,Why choose ABC?,Sent,internal,1023286833
+A205,24/08/25 15:00,ABC drug launch,Why choose ABC?,Sent,internal,1023286833
+A206,24/08/25 18:26,ABC med awareness,Latest research on ABC,Sent,internal,1023881872
+A206,24/08/25 0:09,ABC drug launch,Why choose ABC?,Sent,internal,1023881872
+A207,24/08/25 4:55,ABC drug launch,Why choose ABC?,Delivered,internal,1023701371
+A207,24/08/25 12:44,ABC med awareness,Latest research on ABC,Delivered,internal,1023701371
+A208,24/08/25 6:34,ABC drug launch,Why choose ABC?,Sent,internal,1023435199
+A208,24/08/25 9:32,ABC drug launch,Why choose ABC?,Sent,internal,1023435199
+A209,24/08/25 0:22,ABC drug launch,Why choose ABC?,Sent,internal,1023168366
+A209,24/08/25 9:04,ABC med awareness,Latest research on ABC,Sent,internal,1023168366
+A210,24/08/25 14:04,ABC med awareness,Latest research on ABC,Delivered,internal,1023803075
+A210,24/08/25 2:22,ABC med awareness,Latest research on ABC,Delivered,internal,1023803075
+A211,24/08/25 6:12,ABC med awareness,Latest research on ABC,Delivered,internal,1023929708
+A211,24/08/25 19:00,ABC drug launch,Why choose ABC?,Delivered,internal,1023929708
+A212,24/08/25 11:59,ABC med awareness,Latest research on ABC,Sent,internal,1023032673
+A212,24/08/25 5:23,ABC drug launch,Why choose ABC?,Sent,internal,1023032673
+A213,24/08/25 8:59,ABC med awareness,Latest research on ABC,Sent,internal,1023207861
+A213,24/08/25 18:19,ABC med awareness,Latest research on ABC,Delivered,internal,1023207861
+A214,24/08/25 14:17,ABC drug launch,Why choose ABC?,Sent,internal,1023098633
+A214,24/08/25 2:29,ABC drug launch,Why choose ABC?,Delivered,internal,1023098633
+A215,24/08/25 17:08,ABC med awareness,Latest research on ABC,Delivered,internal,1023013377
+A215,24/08/25 12:19,ABC drug launch,Why choose ABC?,Sent,internal,1023013377
+A216,24/08/25 13:49,ABC drug launch,Why choose ABC?,Delivered,internal,1023528054
+A216,24/08/25 2:01,ABC med awareness,Latest research on ABC,Sent,internal,1023528054
+A217,24/08/25 7:31,ABC drug launch,Why choose ABC?,Sent,internal,1023924933
+A217,24/08/25 19:07,ABC drug launch,Why choose ABC?,Delivered,internal,1023924933
+A218,24/08/25 2:13,ABC med awareness,Latest research on ABC,Sent,internal,1023209270
+A218,24/08/25 16:10,ABC drug launch,Why choose ABC?,Delivered,internal,1023209270
+A219,24/08/25 14:35,ABC drug launch,Why choose ABC?,Sent,internal,1023859728
+A219,24/08/25 3:27,ABC med awareness,Latest research on ABC,Delivered,internal,1023859728
+A220,24/08/25 3:22,ABC drug launch,Why choose ABC?,Delivered,internal,1023080256
+A220,24/08/25 5:03,ABC med awareness,Latest research on ABC,Delivered,internal,1023080256
+A221,24/08/25 5:24,ABC drug launch,Why choose ABC?,Delivered,internal,1023550471
+A221,24/08/25 12:46,ABC drug launch,Why choose ABC?,Sent,internal,1023550471
+A222,24/08/25 0:13,ABC med awareness,Latest research on ABC,Sent,internal,1023802910
+A222,24/08/25 11:58,ABC drug launch,Why choose ABC?,Delivered,internal,1023802910
+A223,24/08/25 16:11,ABC med awareness,Latest research on ABC,Delivered,internal,1023912759
+A223,24/08/25 17:51,ABC drug launch,Why choose ABC?,Sent,internal,1023912759
+A224,24/08/25 13:32,ABC med awareness,Latest research on ABC,Delivered,internal,1023462213
+A224,24/08/25 9:53,ABC med awareness,Latest research on ABC,Sent,internal,1023462213
+A225,24/08/25 10:27,ABC drug launch,Why choose ABC?,Sent,internal,1023507581
+A225,24/08/25 9:25,ABC drug launch,Why choose ABC?,Delivered,internal,1023507581
+A226,24/08/25 5:03,ABC med awareness,Latest research on ABC,Delivered,internal,1023629969
+A226,24/08/25 11:28,ABC drug launch,Why choose ABC?,Delivered,internal,1023629969
+A227,24/08/25 18:32,ABC med awareness,Latest research on ABC,Delivered,internal,1023450477
+A227,24/08/25 11:33,ABC med awareness,Latest research on ABC,Delivered,internal,1023450477
+A228,24/08/25 14:45,ABC drug launch,Why choose ABC?,Sent,internal,1023926034
+A228,24/08/25 3:09,ABC med awareness,Latest research on ABC,Sent,internal,1023926034
+A229,24/08/25 0:00,ABC drug launch,Why choose ABC?,Delivered,internal,1023574806
+A229,24/08/25 11:32,ABC med awareness,Latest research on ABC,Delivered,internal,1023574806
+A230,24/08/25 10:51,ABC drug launch,Why choose ABC?,Delivered,internal,1023483364
+A230,24/08/25 18:57,ABC drug launch,Why choose ABC?,Sent,internal,1023483364
+A231,24/08/25 14:04,ABC drug launch,Why choose ABC?,Sent,internal,1023065050
+A231,24/08/25 21:49,ABC med awareness,Latest research on ABC,Delivered,internal,1023065050
+A232,24/08/25 14:14,ABC med awareness,Latest research on ABC,Delivered,internal,1023508117
+A232,24/08/25 19:01,ABC med awareness,Latest research on ABC,Sent,internal,1023508117
+A233,24/08/25 1:36,ABC drug launch,Why choose ABC?,Sent,internal,1023395519
+A233,24/08/25 4:54,ABC med awareness,Latest research on ABC,Delivered,internal,1023395519
+A234,24/08/25 2:57,ABC drug launch,Why choose ABC?,Delivered,internal,1023839663
+A234,24/08/25 13:03,ABC drug launch,Why choose ABC?,Sent,internal,1023839663
+A235,24/08/25 16:59,ABC med awareness,Latest research on ABC,Sent,internal,1023092900
+A235,24/08/25 19:03,ABC med awareness,Latest research on ABC,Sent,internal,1023092900
+A236,24/08/25 15:06,ABC drug launch,Why choose ABC?,Sent,internal,1023897066
+A236,24/08/25 15:54,ABC med awareness,Latest research on ABC,Sent,internal,1023897066
+A237,24/08/25 15:39,ABC med awareness,Latest research on ABC,Delivered,internal,1023956177
+A237,24/08/25 8:47,ABC drug launch,Why choose ABC?,Delivered,internal,1023956177
+A238,24/08/25 15:34,ABC med awareness,Latest research on ABC,Sent,internal,1023441323
+A238,24/08/25 22:10,ABC med awareness,Latest research on ABC,Sent,internal,1023441323
+A239,24/08/25 23:19,ABC med awareness,Latest research on ABC,Delivered,internal,1023823766
+A239,24/08/25 21:20,ABC med awareness,Latest research on ABC,Delivered,internal,1023823766
+A240,24/08/25 17:24,ABC drug launch,Why choose ABC?,Sent,internal,1023601198
+A240,24/08/25 8:36,ABC med awareness,Latest research on ABC,Delivered,internal,1023601198
+A241,24/08/25 12:21,ABC drug launch,Why choose ABC?,Sent,internal,1023055155
+A241,24/08/25 23:36,ABC drug launch,Why choose ABC?,Sent,internal,1023055155
+A242,24/08/25 23:21,ABC drug launch,Why choose ABC?,Delivered,internal,1023706870
+A242,24/08/25 8:40,ABC drug launch,Why choose ABC?,Delivered,internal,1023706870
+A243,24/08/25 7:47,ABC med awareness,Latest research on ABC,Delivered,internal,1023232661
+A243,24/08/25 3:36,ABC drug launch,Why choose ABC?,Sent,internal,1023232661
+A244,24/08/25 21:14,ABC drug launch,Why choose ABC?,Delivered,internal,1023591612
+A244,24/08/25 2:39,ABC drug launch,Why choose ABC?,Delivered,internal,1023591612
+A245,24/08/25 12:28,ABC med awareness,Latest research on ABC,Delivered,internal,1023321807
+A245,24/08/25 2:18,ABC med awareness,Latest research on ABC,Sent,internal,1023321807
+A246,24/08/25 9:02,ABC med awareness,Latest research on ABC,Delivered,internal,1023570850
+A246,24/08/25 1:09,ABC drug launch,Why choose ABC?,Delivered,internal,1023570850
+A247,24/08/25 18:32,ABC drug launch,Why choose ABC?,Delivered,internal,1023050956
+A247,24/08/25 0:25,ABC drug launch,Why choose ABC?,Delivered,internal,1023050956
+A248,24/08/25 11:21,ABC drug launch,Why choose ABC?,Delivered,internal,1023253253
+A248,24/08/25 10:01,ABC drug launch,Why choose ABC?,Sent,internal,1023253253
+A249,24/08/25 8:23,ABC drug launch,Why choose ABC?,Sent,internal,1023492519
+A249,24/08/25 20:20,ABC med awareness,Latest research on ABC,Delivered,internal,1023492519
+A250,24/08/25 18:20,ABC drug launch,Why choose ABC?,Sent,internal,1023968140
+A250,24/08/25 8:09,ABC med awareness,Latest research on ABC,Delivered,internal,1023968140
+A251,24/08/25 9:51,ABC drug launch,Why choose ABC?,Delivered,internal,1023744845
+A251,24/08/25 19:48,ABC drug launch,Why choose ABC?,Delivered,internal,1023744845
+A252,24/08/25 4:50,ABC med awareness,Latest research on ABC,Delivered,internal,1023081525
+A252,24/08/25 19:08,ABC med awareness,Latest research on ABC,Delivered,internal,1023081525
+A253,24/08/25 1:53,ABC drug launch,Why choose ABC?,Delivered,internal,1023910789
+A253,24/08/25 21:00,ABC drug launch,Why choose ABC?,Delivered,internal,1023910789
+A254,24/08/25 20:42,ABC med awareness,Latest research on ABC,Sent,internal,1023685821
+A254,24/08/25 8:43,ABC drug launch,Why choose ABC?,Delivered,internal,1023685821
+A255,24/08/25 22:50,ABC med awareness,Latest research on ABC,Delivered,internal,1023572728
+A255,24/08/25 19:40,ABC drug launch,Why choose ABC?,Sent,internal,1023572728
+A256,24/08/25 9:57,ABC med awareness,Latest research on ABC,Delivered,internal,1023696333
+A256,24/08/25 15:20,ABC drug launch,Why choose ABC?,Delivered,internal,1023696333
+A257,24/08/25 13:10,ABC med awareness,Latest research on ABC,Sent,internal,1023602722
+A257,24/08/25 16:29,ABC med awareness,Latest research on ABC,Sent,internal,1023602722
+A258,24/08/25 15:36,ABC drug launch,Why choose ABC?,Delivered,internal,1023256351
+A258,24/08/25 7:47,ABC drug launch,Why choose ABC?,Delivered,internal,1023256351
+A259,24/08/25 16:48,ABC drug launch,Why choose ABC?,Sent,internal,1023513894
+A259,24/08/25 5:45,ABC drug launch,Why choose ABC?,Sent,internal,1023513894
+A260,24/08/25 19:43,ABC med awareness,Latest research on ABC,Sent,internal,1023424553
+A260,24/08/25 22:00,ABC med awareness,Latest research on ABC,Delivered,internal,1023424553
+A261,24/08/25 9:42,ABC med awareness,Latest research on ABC,Sent,internal,1023918567
+A261,24/08/25 6:40,ABC med awareness,Latest research on ABC,Sent,internal,1023918567
+A262,24/08/25 23:21,ABC drug launch,Why choose ABC?,Delivered,internal,1023172697
+A262,24/08/25 11:13,ABC med awareness,Latest research on ABC,Sent,internal,1023172697
+A263,24/08/25 5:45,ABC drug launch,Why choose ABC?,Sent,internal,1023834651
+A263,24/08/25 4:13,ABC drug launch,Why choose ABC?,Sent,internal,1023834651
+A264,24/08/25 0:55,ABC drug launch,Why choose ABC?,Sent,internal,1023675216
+A264,24/08/25 4:32,ABC med awareness,Latest research on ABC,Delivered,internal,1023675216
+A265,24/08/25 17:12,ABC med awareness,Latest research on ABC,Delivered,internal,1023768090
+A265,24/08/25 14:18,ABC drug launch,Why choose ABC?,Delivered,internal,1023768090
+A266,24/08/25 19:47,ABC drug launch,Why choose ABC?,Sent,internal,1023351624
+A266,24/08/25 8:24,ABC drug launch,Why choose ABC?,Sent,internal,1023351624
+A267,24/08/25 15:13,ABC drug launch,Why choose ABC?,Delivered,internal,1023021174
+A267,24/08/25 14:03,ABC med awareness,Latest research on ABC,Delivered,internal,1023021174
+A268,24/08/25 9:06,ABC drug launch,Why choose ABC?,Sent,internal,1023521880
+A268,24/08/25 1:53,ABC drug launch,Why choose ABC?,Delivered,internal,1023521880
+A269,24/08/25 14:02,ABC drug launch,Why choose ABC?,Sent,internal,1023430144
+A269,24/08/25 23:48,ABC med awareness,Latest research on ABC,Sent,internal,1023430144
+A270,24/08/25 15:09,ABC drug launch,Why choose ABC?,Sent,internal,1023085116
+A270,24/08/25 20:49,ABC med awareness,Latest research on ABC,Delivered,internal,1023085116
+A271,24/08/25 18:46,ABC med awareness,Latest research on ABC,Delivered,internal,1023327023
+A271,24/08/25 22:40,ABC drug launch,Why choose ABC?,Sent,internal,1023327023
+A272,24/08/25 20:16,ABC med awareness,Latest research on ABC,Sent,internal,1023800261
+A272,24/08/25 12:35,ABC med awareness,Latest research on ABC,Delivered,internal,1023800261
+A273,24/08/25 19:47,ABC drug launch,Why choose ABC?,Delivered,internal,1023049608
+A273,24/08/25 23:41,ABC med awareness,Latest research on ABC,Delivered,internal,1023049608
+A274,24/08/25 17:14,ABC drug launch,Why choose ABC?,Delivered,internal,1023467722
+A274,24/08/25 23:22,ABC med awareness,Latest research on ABC,Delivered,internal,1023467722
+A275,24/08/25 2:33,ABC drug launch,Why choose ABC?,Sent,internal,1023964438
+A275,24/08/25 21:08,ABC drug launch,Why choose ABC?,Delivered,internal,1023964438
+A276,24/08/25 17:27,ABC med awareness,Latest research on ABC,Delivered,internal,1023678449
+A276,24/08/25 0:37,ABC drug launch,Why choose ABC?,Sent,internal,1023678449
+A277,24/08/25 21:33,ABC med awareness,Latest research on ABC,Delivered,internal,1023204871
+A277,24/08/25 1:00,ABC drug launch,Why choose ABC?,Sent,internal,1023204871
+A278,24/08/25 8:35,ABC med awareness,Latest research on ABC,Sent,internal,1023257708
+A278,24/08/25 13:06,ABC drug launch,Why choose ABC?,Delivered,internal,1023257708
+A279,24/08/25 11:56,ABC drug launch,Why choose ABC?,Delivered,internal,1023018041
+A279,24/08/25 10:31,ABC drug launch,Why choose ABC?,Sent,internal,1023018041
+A280,24/08/25 8:09,ABC med awareness,Latest research on ABC,Delivered,internal,1023068628
+A280,24/08/25 8:31,ABC drug launch,Why choose ABC?,Sent,internal,1023068628
+A281,24/08/25 14:48,ABC drug launch,Why choose ABC?,Delivered,internal,1023089414
+A281,24/08/25 9:25,ABC med awareness,Latest research on ABC,Delivered,internal,1023089414
+A282,24/08/25 6:04,ABC drug launch,Why choose ABC?,Delivered,internal,1023667621
+A282,24/08/25 2:30,ABC med awareness,Latest research on ABC,Sent,internal,1023667621
+A283,24/08/25 2:53,ABC drug launch,Why choose ABC?,Sent,internal,1023254144
+A283,24/08/25 6:10,ABC med awareness,Latest research on ABC,Delivered,internal,1023254144
+A284,24/08/25 0:38,ABC med awareness,Latest research on ABC,Sent,internal,1023839567
+A284,24/08/25 1:38,ABC drug launch,Why choose ABC?,Sent,internal,1023839567
+A285,24/08/25 1:45,ABC drug launch,Why choose ABC?,Sent,internal,1023178665
+A285,24/08/25 11:41,ABC drug launch,Why choose ABC?,Delivered,internal,1023178665
+A286,24/08/25 14:47,ABC drug launch,Why choose ABC?,Delivered,internal,1023065147
+A286,24/08/25 11:01,ABC med awareness,Latest research on ABC,Sent,internal,1023065147
+A287,24/08/25 13:37,ABC med awareness,Latest research on ABC,Delivered,internal,1023514401
+A287,24/08/25 19:53,ABC drug launch,Why choose ABC?,Delivered,internal,1023514401
+A288,24/08/25 9:31,ABC drug launch,Why choose ABC?,Delivered,internal,1023346488
+A288,24/08/25 22:04,ABC med awareness,Latest research on ABC,Sent,internal,1023346488
+A289,24/08/25 16:25,ABC drug launch,Why choose ABC?,Sent,internal,1023123975
+A289,24/08/25 14:54,ABC med awareness,Latest research on ABC,Delivered,internal,1023123975
+A290,24/08/25 21:54,ABC med awareness,Latest research on ABC,Sent,internal,1023845948
+A290,24/08/25 10:34,ABC drug launch,Why choose ABC?,Sent,internal,1023845948
+A291,24/08/25 8:24,ABC med awareness,Latest research on ABC,Delivered,internal,1023246908
+A291,24/08/25 21:54,ABC drug launch,Why choose ABC?,Delivered,internal,1023246908
+A292,24/08/25 5:58,ABC med awareness,Latest research on ABC,Delivered,internal,1023607137
+A292,24/08/25 3:03,ABC drug launch,Why choose ABC?,Sent,internal,1023607137
+A293,24/08/25 14:24,ABC drug launch,Why choose ABC?,Sent,internal,1023497131
+A293,24/08/25 20:06,ABC med awareness,Latest research on ABC,Delivered,internal,1023497131
+A294,24/08/25 5:41,ABC drug launch,Why choose ABC?,Delivered,internal,1023527345
+A294,24/08/25 22:12,ABC drug launch,Why choose ABC?,Sent,internal,1023527345
+A295,24/08/25 9:20,ABC drug launch,Why choose ABC?,Sent,internal,1023369439
+A295,24/08/25 15:40,ABC med awareness,Latest research on ABC,Delivered,internal,1023369439
+A296,24/08/25 22:39,ABC drug launch,Why choose ABC?,Delivered,internal,1023970208
+A296,24/08/25 12:58,ABC drug launch,Why choose ABC?,Delivered,internal,1023970208
+A297,24/08/25 9:56,ABC med awareness,Latest research on ABC,Sent,internal,1023477574
+A297,24/08/25 10:26,ABC med awareness,Latest research on ABC,Delivered,internal,1023477574
+A298,24/08/25 21:20,ABC med awareness,Latest research on ABC,Sent,internal,1023402686
+A298,24/08/25 9:15,ABC med awareness,Latest research on ABC,Delivered,internal,1023402686
+A299,24/08/25 12:44,ABC drug launch,Why choose ABC?,Delivered,internal,1023823519
+A299,24/08/25 5:13,ABC drug launch,Why choose ABC?,Delivered,internal,1023823519
+A300,24/08/25 1:17,ABC med awareness,Latest research on ABC,Delivered,internal,1023912147
+A300,24/08/25 19:32,ABC drug launch,Why choose ABC?,Delivered,internal,1023912147
