@@ -1,0 +1,797 @@
+"source","vendor","channel_name","campaign_name","subject_line","npi","mdm_id","delivered_datetime","no_of_sends","primary_eng_datetime","no_of_prim_eng","sencondary_eng_datetime","no_of_sec_eng","acad_comm","teaching_hospital","region","prescriber"
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023303038,91172843,2025-08-24 03:22:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023057429,98264380,2025-08-24 09:58:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023193618,99798537,2025-08-24 18:59:00.000 +0530,1,,,,,Community,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023281517,90054336,2025-08-24 11:36:00.000 +0530,1,,,,,Community,Yes,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023281517,90054336,2025-08-24 09:34:00.000 +0530,1,,,,,Community,Yes,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023475268,93522474,2025-08-24 14:06:00.000 +0530,1,,,,,Community,No,East,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023856853,94048546,2025-08-24 13:00:00.000 +0530,1,,,,,Community,No,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023856853,94048546,2025-08-24 06:26:00.000 +0530,1,,,,,Community,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023575098,92315369,2025-08-24 02:35:00.000 +0530,1,,,,,Community,No,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023073716,90000671,2025-08-24 08:29:00.000 +0530,1,,,,,Community,Yes,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023073716,90000671,2025-08-24 22:33:00.000 +0530,1,,,,,Community,Yes,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023266838,93723528,2025-08-24 06:39:00.000 +0530,1,,,,,Academic,No,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023131228,91339541,2025-08-24 16:09:00.000 +0530,1,,,,,Academic,No,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023131228,91339541,2025-08-24 12:36:00.000 +0530,1,,,,,Academic,No,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023385872,96434000,2025-08-24 22:05:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023385872,96434000,2025-08-24 20:51:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023537504,98292281,2025-08-24 09:33:00.000 +0530,1,2025-08-27 04:24:00.000 +0530,1,,,Academic,No,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023264395,92779447,2025-08-24 10:16:00.000 +0530,1,2025-08-26 23:04:00.000 +0530,1,2025-08-26 23:09:00.000 +0530,1,Community,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023983259,95005330,2025-08-24 12:37:00.000 +0530,1,2025-08-27 19:44:00.000 +0530,1,,,Community,No,East,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023045680,94253502,2025-08-24 15:16:00.000 +0530,1,2025-08-26 15:16:00.000 +0530,1,,,Academic,No,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023045680,94253502,2025-08-24 00:20:00.000 +0530,1,2025-08-26 15:16:00.000 +0530,1,,,Academic,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023136239,98084938,2025-08-24 02:33:00.000 +0530,1,2025-08-27 17:04:00.000 +0530,1,,,Community,No,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023136239,98084938,2025-08-24 17:04:00.000 +0530,1,2025-08-27 17:04:00.000 +0530,1,,,Community,No,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023881017,98784293,2025-08-24 06:00:00.000 +0530,1,,,,,Community,No,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023881017,98784293,2025-08-24 05:22:00.000 +0530,1,,,,,Community,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023842167,97533392,2025-08-24 11:38:00.000 +0530,1,2025-08-25 11:35:00.000 +0530,1,,,Academic,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023916062,92988038,2025-08-24 06:41:00.000 +0530,1,2025-08-25 11:49:00.000 +0530,1,,,Community,No,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023035504,92613510,2025-08-24 01:24:00.000 +0530,1,2025-08-27 01:24:00.000 +0530,1,2025-08-27 01:54:00.000 +0530,1,Academic,Yes,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023719430,92086768,2025-08-24 18:40:00.000 +0530,1,2025-08-26 10:45:00.000 +0530,1,,,Academic,No,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023933336,91948340,2025-08-24 18:04:00.000 +0530,1,2025-08-25 16:59:00.000 +0530,1,2025-08-25 17:29:00.000 +0530,1,Community,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023134779,98776597,2025-08-24 05:13:00.000 +0530,1,2025-08-25 23:31:00.000 +0530,1,,,Academic,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023134779,98776597,2025-08-24 23:31:00.000 +0530,1,2025-08-25 23:31:00.000 +0530,1,,,Academic,No,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023927795,95856578,2025-08-24 21:28:00.000 +0530,1,,,,,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023324522,98655892,2025-08-24 18:26:00.000 +0530,1,2025-08-27 14:12:00.000 +0530,1,2025-08-27 14:22:00.000 +0530,1,Community,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023052720,94009401,2025-08-24 09:31:00.000 +0530,1,2025-08-27 09:31:00.000 +0530,1,,,Academic,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023917748,96015274,2025-08-24 23:45:00.000 +0530,1,2025-08-25 23:45:00.000 +0530,1,,,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023827429,93245398,2025-08-24 21:57:00.000 +0530,1,2025-08-27 21:57:00.000 +0530,1,2025-08-27 22:02:00.000 +0530,1,Community,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023396457,99921071,2025-08-24 18:41:00.000 +0530,1,2025-08-27 15:51:00.000 +0530,1,,,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023435371,94881790,2025-08-24 16:49:00.000 +0530,1,2025-08-27 16:49:00.000 +0530,1,2025-08-27 17:19:00.000 +0530,1,Academic,No,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023077846,92289464,2025-08-24 06:59:00.000 +0530,1,2025-08-25 06:59:00.000 +0530,1,,,Academic,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023077846,92289464,2025-08-24 21:38:00.000 +0530,1,2025-08-25 06:59:00.000 +0530,1,,,Academic,Yes,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023628666,91676052,2025-08-24 11:36:00.000 +0530,1,2025-08-26 11:36:00.000 +0530,1,2025-08-26 11:41:00.000 +0530,1,Community,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023628666,91676052,2025-08-24 03:32:00.000 +0530,1,2025-08-26 11:36:00.000 +0530,1,2025-08-26 11:41:00.000 +0530,1,Community,No,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023230399,95764648,2025-08-24 13:37:00.000 +0530,1,2025-08-25 13:37:00.000 +0530,1,,,Community,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023931813,98538962,2025-08-24 16:03:00.000 +0530,1,2025-08-25 15:49:00.000 +0530,1,2025-08-25 16:19:00.000 +0530,1,Academic,Yes,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023931813,98538962,2025-08-24 15:49:00.000 +0530,1,2025-08-25 15:49:00.000 +0530,1,2025-08-25 16:19:00.000 +0530,1,Academic,Yes,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023128824,99173727,2025-08-24 10:43:00.000 +0530,1,2025-08-27 03:19:00.000 +0530,1,,,Community,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023425886,99183535,2025-08-24 06:44:00.000 +0530,1,2025-08-27 06:44:00.000 +0530,1,2025-08-27 06:49:00.000 +0530,1,Community,Yes,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023048099,96232716,2025-08-24 00:55:00.000 +0530,1,2025-08-25 23:38:00.000 +0530,1,,,Academic,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023442297,92414111,2025-08-24 11:16:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023442297,92414111,2025-08-24 19:22:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023556884,99379339,2025-08-24 02:36:00.000 +0530,1,2025-08-25 17:34:00.000 +0530,1,,,Academic,No,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023943760,90342965,2025-08-24 12:50:00.000 +0530,1,2025-08-26 12:50:00.000 +0530,1,2025-08-26 13:00:00.000 +0530,1,Community,No,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023893404,97364824,2025-08-24 10:23:00.000 +0530,1,2025-08-25 10:23:00.000 +0530,1,,,Community,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023377679,98963060,2025-08-24 21:42:00.000 +0530,1,2025-08-27 21:42:00.000 +0530,1,2025-08-27 21:47:00.000 +0530,1,Community,No,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023001746,98230875,2025-08-24 04:42:00.000 +0530,1,2025-08-26 04:42:00.000 +0530,1,,,Community,Yes,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023001746,98230875,2025-08-24 19:07:00.000 +0530,1,2025-08-26 04:42:00.000 +0530,1,,,Community,Yes,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023885152,96678708,2025-08-24 16:52:00.000 +0530,1,2025-08-26 08:20:00.000 +0530,1,2025-08-26 08:30:00.000 +0530,1,Academic,Yes,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023885152,96678708,2025-08-24 08:20:00.000 +0530,1,2025-08-26 08:20:00.000 +0530,1,2025-08-26 08:30:00.000 +0530,1,Academic,Yes,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023702334,98196310,2025-08-24 23:09:00.000 +0530,1,2025-08-27 23:09:00.000 +0530,1,,,Academic,Yes,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023211009,96234882,2025-08-24 17:21:00.000 +0530,1,,,,,Community,No,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023409843,90739007,2025-08-24 11:13:00.000 +0530,1,2025-08-25 11:13:00.000 +0530,1,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023587111,92406700,2025-08-24 05:59:00.000 +0530,1,2025-08-26 05:59:00.000 +0530,1,2025-08-26 06:09:00.000 +0530,1,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023488841,94789510,2025-08-24 08:29:00.000 +0530,1,2025-08-27 08:29:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023548084,99094293,2025-08-24 12:41:00.000 +0530,1,2025-08-25 08:50:00.000 +0530,1,2025-08-25 09:00:00.000 +0530,1,Community,Yes,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023325549,99332838,2025-08-24 22:25:00.000 +0530,1,2025-08-26 22:25:00.000 +0530,1,,,Community,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023704421,93100034,2025-08-24 16:05:00.000 +0530,1,2025-08-26 16:05:00.000 +0530,1,2025-08-26 16:35:00.000 +0530,1,Community,No,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023844613,97628175,2025-08-24 14:30:00.000 +0530,1,2025-08-27 14:30:00.000 +0530,1,,,Community,No,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023143570,91948157,2025-08-24 00:19:00.000 +0530,1,2025-08-27 00:19:00.000 +0530,1,2025-08-27 00:29:00.000 +0530,1,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023143570,91948157,2025-08-24 04:58:00.000 +0530,1,2025-08-27 00:19:00.000 +0530,1,2025-08-27 00:29:00.000 +0530,1,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023878716,98036744,2025-08-24 01:19:00.000 +0530,1,2025-08-26 01:19:00.000 +0530,1,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023878716,98036744,2025-08-24 14:58:00.000 +0530,1,2025-08-26 01:19:00.000 +0530,1,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023241232,94159192,2025-08-24 15:00:00.000 +0530,1,,,,,Academic,No,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023241232,94159192,2025-08-24 05:28:00.000 +0530,1,,,,,Academic,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023478701,90799141,2025-08-24 08:06:00.000 +0530,1,2025-08-26 08:06:00.000 +0530,1,,,Academic,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023546329,90907469,2025-08-24 22:43:00.000 +0530,1,2025-08-26 22:43:00.000 +0530,1,2025-08-26 22:53:00.000 +0530,1,Community,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023670389,96302257,2025-08-24 07:57:00.000 +0530,1,2025-08-25 07:57:00.000 +0530,1,,,Academic,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023913460,96648317,2025-08-24 23:25:00.000 +0530,1,2025-08-27 07:14:00.000 +0530,1,2025-08-27 07:24:00.000 +0530,1,Community,Yes,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023192837,94992786,2025-08-24 10:20:00.000 +0530,1,2025-08-27 13:12:00.000 +0530,1,,,Community,Yes,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023192837,94992786,2025-08-24 13:12:00.000 +0530,1,2025-08-27 13:12:00.000 +0530,1,,,Community,Yes,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023100277,95312953,2025-08-24 22:01:00.000 +0530,1,2025-08-27 22:01:00.000 +0530,1,2025-08-27 22:06:00.000 +0530,1,Community,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023100277,95312953,2025-08-24 10:41:00.000 +0530,1,2025-08-27 22:01:00.000 +0530,1,2025-08-27 22:06:00.000 +0530,1,Community,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023452078,97167752,2025-08-24 06:14:00.000 +0530,1,2025-08-27 13:13:00.000 +0530,1,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023806467,92193282,2025-08-24 08:51:00.000 +0530,1,2025-08-25 08:51:00.000 +0530,1,2025-08-25 08:56:00.000 +0530,1,Academic,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023800812,97427972,2025-08-24 06:45:00.000 +0530,1,2025-08-25 03:40:00.000 +0530,1,,,Community,No,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023371595,95701134,2025-08-24 13:58:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023370687,97442485,2025-08-24 14:58:00.000 +0530,1,2025-08-25 14:58:00.000 +0530,1,,,Community,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023265185,99191061,2025-08-24 02:51:00.000 +0530,1,2025-08-25 20:50:00.000 +0530,1,2025-08-25 21:20:00.000 +0530,1,Academic,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023862772,96306977,2025-08-24 04:57:00.000 +0530,1,2025-08-26 21:50:00.000 +0530,1,,,Academic,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023966696,97331312,2025-08-24 08:58:00.000 +0530,1,2025-08-26 08:58:00.000 +0530,1,2025-08-26 09:03:00.000 +0530,1,Academic,Yes,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023966696,97331312,2025-08-24 05:25:00.000 +0530,1,2025-08-26 08:58:00.000 +0530,1,2025-08-26 09:03:00.000 +0530,1,Academic,Yes,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023911462,94866644,2025-08-24 09:30:00.000 +0530,1,2025-08-27 14:03:00.000 +0530,1,,,Academic,No,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023092177,91915204,2025-08-24 21:55:00.000 +0530,1,2025-08-25 21:55:00.000 +0530,1,2025-08-25 22:05:00.000 +0530,1,Community,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023092177,91915204,2025-08-24 19:21:00.000 +0530,1,2025-08-25 21:55:00.000 +0530,1,2025-08-25 22:05:00.000 +0530,1,Community,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023869546,99233857,2025-08-24 18:03:00.000 +0530,1,2025-08-27 18:03:00.000 +0530,1,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023869546,99233857,2025-08-24 09:55:00.000 +0530,1,2025-08-27 18:03:00.000 +0530,1,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023618132,90215108,2025-08-24 07:42:00.000 +0530,1,2025-08-25 22:45:00.000 +0530,1,2025-08-25 23:15:00.000 +0530,1,Academic,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023618132,90215108,2025-08-24 22:45:00.000 +0530,1,2025-08-25 22:45:00.000 +0530,1,2025-08-25 23:15:00.000 +0530,1,Academic,No,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023130382,95050357,2025-08-24 04:13:00.000 +0530,1,2025-08-27 15:28:00.000 +0530,1,,,Community,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023130382,95050357,2025-08-24 15:28:00.000 +0530,1,2025-08-27 15:28:00.000 +0530,1,,,Community,Yes,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023101082,93836752,2025-08-24 07:13:00.000 +0530,1,,,,,Academic,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023348413,97029011,2025-08-24 21:35:00.000 +0530,1,2025-08-26 08:22:00.000 +0530,1,2025-08-26 08:32:00.000 +0530,1,Community,Yes,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023433797,96679118,2025-08-24 10:12:00.000 +0530,1,2025-08-27 10:12:00.000 +0530,1,2025-08-27 10:22:00.000 +0530,1,Community,No,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023849914,96058580,2025-08-24 18:11:00.000 +0530,1,2025-08-26 18:11:00.000 +0530,1,,,Community,Yes,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023849914,96058580,2025-08-24 23:16:00.000 +0530,1,2025-08-26 18:11:00.000 +0530,1,,,Community,Yes,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023372569,93851445,2025-08-24 14:11:00.000 +0530,1,2025-08-26 18:11:00.000 +0530,1,2025-08-26 18:16:00.000 +0530,1,Community,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023372569,93851445,2025-08-24 18:11:00.000 +0530,1,2025-08-26 18:11:00.000 +0530,1,2025-08-26 18:16:00.000 +0530,1,Community,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023134210,98150312,2025-08-24 04:25:00.000 +0530,1,2025-08-27 04:25:00.000 +0530,1,,,Community,Yes,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023695479,97624732,2025-08-24 14:52:00.000 +0530,1,2025-08-26 14:52:00.000 +0530,1,,,Academic,No,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023477766,96740091,2025-08-24 17:31:00.000 +0530,1,,,,,Community,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023852274,93272515,2025-08-24 03:29:00.000 +0530,1,2025-08-25 06:06:00.000 +0530,1,,,Academic,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023516416,94875251,2025-08-24 11:06:00.000 +0530,1,2025-08-27 05:11:00.000 +0530,1,2025-08-27 05:16:00.000 +0530,1,Community,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023516416,94875251,2025-08-24 05:11:00.000 +0530,1,2025-08-27 05:11:00.000 +0530,1,2025-08-27 05:16:00.000 +0530,1,Community,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023481187,96685537,2025-08-24 21:31:00.000 +0530,1,2025-08-27 13:53:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023039547,96446534,2025-08-24 23:05:00.000 +0530,1,2025-08-27 23:05:00.000 +0530,1,2025-08-27 23:10:00.000 +0530,1,Academic,No,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023701371,96439127,2025-08-24 12:44:00.000 +0530,1,2025-08-25 04:55:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023701371,96439127,2025-08-24 04:55:00.000 +0530,1,2025-08-25 04:55:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023803075,90605011,2025-08-24 14:04:00.000 +0530,1,,,,,Academic,Yes,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023803075,90605011,2025-08-24 02:22:00.000 +0530,1,,,,,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023929708,97742984,2025-08-24 19:00:00.000 +0530,1,2025-08-27 06:12:00.000 +0530,1,,,Community,No,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023929708,97742984,2025-08-24 06:12:00.000 +0530,1,2025-08-27 06:12:00.000 +0530,1,,,Community,No,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023207861,90229772,2025-08-24 18:19:00.000 +0530,1,2025-08-26 08:59:00.000 +0530,1,,,Academic,No,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023098633,97555522,2025-08-24 02:29:00.000 +0530,1,2025-08-27 14:17:00.000 +0530,1,2025-08-27 14:47:00.000 +0530,1,Community,No,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023013377,95937198,2025-08-24 17:08:00.000 +0530,1,2025-08-25 17:08:00.000 +0530,1,,,Community,No,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023528054,91559516,2025-08-24 13:49:00.000 +0530,1,2025-08-27 13:49:00.000 +0530,1,2025-08-27 13:54:00.000 +0530,1,Academic,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023924933,97240054,2025-08-24 19:07:00.000 +0530,1,2025-08-25 07:31:00.000 +0530,1,,,Community,No,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023209270,91676464,2025-08-24 16:10:00.000 +0530,1,2025-08-25 02:13:00.000 +0530,1,2025-08-25 02:23:00.000 +0530,1,Community,Yes,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023859728,94583041,2025-08-24 03:27:00.000 +0530,1,2025-08-26 14:35:00.000 +0530,1,,,Academic,No,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023080256,91265159,2025-08-24 05:03:00.000 +0530,1,,,,,Community,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023080256,91265159,2025-08-24 03:22:00.000 +0530,1,,,,,Community,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023550471,98099958,2025-08-24 05:24:00.000 +0530,1,2025-08-26 05:24:00.000 +0530,1,,,Community,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023802910,90229217,2025-08-24 11:58:00.000 +0530,1,,,,,Academic,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023912759,90991477,2025-08-24 16:11:00.000 +0530,1,,,,,Community,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023462213,91055720,2025-08-24 13:32:00.000 +0530,1,,,,,Academic,No,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023507581,95354313,2025-08-24 09:25:00.000 +0530,1,,,,,Academic,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023629969,94727334,2025-08-24 05:03:00.000 +0530,1,,,,,Academic,Yes,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023629969,94727334,2025-08-24 11:28:00.000 +0530,1,,,,,Academic,Yes,East,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023450477,93282155,2025-08-24 11:33:00.000 +0530,1,,,,,Community,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023450477,93282155,2025-08-24 18:32:00.000 +0530,1,,,,,Community,No,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023574806,94858030,2025-08-24 00:00:00.000 +0530,1,,,,,Academic,Yes,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023574806,94858030,2025-08-24 11:32:00.000 +0530,1,,,,,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023483364,97153015,2025-08-24 10:51:00.000 +0530,1,,,,,Community,Yes,East,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023065050,91636788,2025-08-24 21:49:00.000 +0530,1,2025-08-25 14:04:00.000 +0530,2,,,Academic,No,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023508117,92461958,2025-08-24 14:14:00.000 +0530,1,2025-08-25 14:14:00.000 +0530,2,2025-08-25 14:19:00.000 +0530,1,Community,No,East,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023395519,94519521,2025-08-24 04:54:00.000 +0530,1,2025-08-26 01:36:00.000 +0530,2,,,Academic,Yes,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023839663,91944728,2025-08-24 02:57:00.000 +0530,1,2025-08-27 02:57:00.000 +0530,2,2025-08-27 03:02:00.000 +0530,1,Academic,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023956177,92275319,2025-08-24 08:47:00.000 +0530,1,2025-08-27 15:39:00.000 +0530,2,,,Academic,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023956177,92275319,2025-08-24 15:39:00.000 +0530,1,2025-08-27 15:39:00.000 +0530,2,,,Academic,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023823766,99421221,2025-08-24 21:20:00.000 +0530,1,2025-08-27 23:19:00.000 +0530,1,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023823766,99421221,2025-08-24 23:19:00.000 +0530,1,2025-08-27 23:19:00.000 +0530,1,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023601198,93968151,2025-08-24 08:36:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023706870,98436994,2025-08-24 23:21:00.000 +0530,1,2025-08-25 23:21:00.000 +0530,1,2025-08-25 23:26:00.000 +0530,1,Academic,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023706870,98436994,2025-08-24 08:40:00.000 +0530,1,2025-08-25 23:21:00.000 +0530,1,2025-08-25 23:26:00.000 +0530,1,Academic,Yes,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023232661,91110352,2025-08-24 07:47:00.000 +0530,1,2025-08-27 07:47:00.000 +0530,1,,,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023591612,94720564,2025-08-24 21:14:00.000 +0530,1,2025-08-25 21:14:00.000 +0530,1,2025-08-25 21:24:00.000 +0530,1,Community,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023591612,94720564,2025-08-24 02:39:00.000 +0530,1,2025-08-25 21:14:00.000 +0530,1,2025-08-25 21:24:00.000 +0530,1,Community,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023321807,94495686,2025-08-24 12:28:00.000 +0530,1,2025-08-27 12:28:00.000 +0530,1,,,Community,No,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023570850,99846087,2025-08-24 01:09:00.000 +0530,1,2025-08-25 09:02:00.000 +0530,1,2025-08-25 09:07:00.000 +0530,1,Academic,Yes,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023570850,99846087,2025-08-24 09:02:00.000 +0530,1,2025-08-25 09:02:00.000 +0530,1,2025-08-25 09:07:00.000 +0530,1,Academic,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023050956,98838137,2025-08-24 00:25:00.000 +0530,1,2025-08-27 18:32:00.000 +0530,1,,,Academic,Yes,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023050956,98838137,2025-08-24 18:32:00.000 +0530,1,2025-08-27 18:32:00.000 +0530,1,,,Academic,Yes,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023253253,98538302,2025-08-24 11:21:00.000 +0530,1,2025-08-27 11:21:00.000 +0530,1,2025-08-27 11:26:00.000 +0530,1,Academic,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023492519,94649442,2025-08-24 20:20:00.000 +0530,1,2025-08-27 08:23:00.000 +0530,1,,,Community,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023968140,95735017,2025-08-24 08:09:00.000 +0530,1,,,,,Community,No,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023744845,92039196,2025-08-24 09:51:00.000 +0530,1,2025-08-25 09:51:00.000 +0530,1,,,Community,No,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023744845,92039196,2025-08-24 19:48:00.000 +0530,1,2025-08-25 09:51:00.000 +0530,1,,,Community,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023081525,92284881,2025-08-24 19:08:00.000 +0530,1,2025-08-25 04:50:00.000 +0530,1,2025-08-25 05:00:00.000 +0530,1,Community,Yes,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023081525,92284881,2025-08-24 04:50:00.000 +0530,1,2025-08-25 04:50:00.000 +0530,1,2025-08-25 05:00:00.000 +0530,1,Community,Yes,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023910789,99448261,2025-08-24 01:53:00.000 +0530,1,2025-08-25 01:53:00.000 +0530,1,,,Community,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023910789,99448261,2025-08-24 21:00:00.000 +0530,1,2025-08-25 01:53:00.000 +0530,1,,,Community,Yes,Central,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023685821,94552839,2025-08-24 08:43:00.000 +0530,1,2025-08-25 20:42:00.000 +0530,1,2025-08-25 21:12:00.000 +0530,1,Community,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023572728,92672584,2025-08-24 22:50:00.000 +0530,1,2025-08-27 22:50:00.000 +0530,1,,,Community,Yes,North,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023696333,93954640,2025-08-24 15:20:00.000 +0530,1,2025-08-27 09:57:00.000 +0530,1,2025-08-27 10:27:00.000 +0530,1,Community,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023696333,93954640,2025-08-24 09:57:00.000 +0530,1,2025-08-27 09:57:00.000 +0530,1,2025-08-27 10:27:00.000 +0530,1,Community,Yes,South,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023256351,98706683,2025-08-24 07:47:00.000 +0530,1,2025-08-26 15:36:00.000 +0530,1,2025-08-26 15:41:00.000 +0530,1,Community,Yes,West,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023256351,98706683,2025-08-24 15:36:00.000 +0530,1,2025-08-26 15:36:00.000 +0530,1,2025-08-26 15:41:00.000 +0530,1,Community,Yes,West,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023424553,96774534,2025-08-24 22:00:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023172697,92282915,2025-08-24 23:21:00.000 +0530,1,,,,,Community,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023675216,91304762,2025-08-24 04:32:00.000 +0530,1,,,,,Academic,No,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023768090,99077314,2025-08-24 17:12:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023768090,99077314,2025-08-24 14:18:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023021174,96535198,2025-08-24 14:03:00.000 +0530,1,,,,,Community,No,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023021174,96535198,2025-08-24 15:13:00.000 +0530,1,,,,,Community,No,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023521880,93529566,2025-08-24 01:53:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023085116,98898241,2025-08-24 20:49:00.000 +0530,1,,,,,Community,No,West,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023327023,96447426,2025-08-24 18:46:00.000 +0530,1,2025-08-27 18:46:00.000 +0530,1,,,Community,No,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023800261,90132456,2025-08-24 12:35:00.000 +0530,1,2025-08-26 20:16:00.000 +0530,1,2025-08-26 20:21:00.000 +0530,1,Academic,No,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023049608,97898373,2025-08-24 23:41:00.000 +0530,1,2025-08-26 19:47:00.000 +0530,1,,,Academic,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023049608,97898373,2025-08-24 19:47:00.000 +0530,1,2025-08-26 19:47:00.000 +0530,1,,,Academic,No,East,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023467722,96787311,2025-08-24 23:22:00.000 +0530,1,2025-08-27 17:14:00.000 +0530,1,2025-08-27 17:24:00.000 +0530,1,Academic,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023467722,96787311,2025-08-24 17:14:00.000 +0530,1,2025-08-27 17:14:00.000 +0530,1,2025-08-27 17:24:00.000 +0530,1,Academic,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023964438,99872175,2025-08-24 21:08:00.000 +0530,1,2025-08-27 02:33:00.000 +0530,1,,,Community,No,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023678449,97102805,2025-08-24 17:27:00.000 +0530,1,2025-08-27 17:27:00.000 +0530,1,2025-08-27 17:57:00.000 +0530,1,Academic,No,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023204871,93499963,2025-08-24 21:33:00.000 +0530,1,2025-08-25 21:33:00.000 +0530,1,,,Community,Yes,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023257708,99946196,2025-08-24 13:06:00.000 +0530,1,2025-08-27 08:35:00.000 +0530,1,2025-08-27 09:05:00.000 +0530,1,Community,No,East,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023018041,93572290,2025-08-24 11:56:00.000 +0530,1,2025-08-25 11:56:00.000 +0530,1,,,Academic,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023068628,90089030,2025-08-24 08:09:00.000 +0530,1,,,,,Academic,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023089414,97006842,2025-08-24 09:25:00.000 +0530,1,2025-08-25 14:48:00.000 +0530,1,,,Academic,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023089414,97006842,2025-08-24 14:48:00.000 +0530,1,2025-08-25 14:48:00.000 +0530,1,,,Academic,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023667621,93469693,2025-08-24 06:04:00.000 +0530,1,2025-08-27 06:04:00.000 +0530,1,2025-08-27 06:14:00.000 +0530,1,Academic,Yes,Central,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023254144,95183992,2025-08-24 06:10:00.000 +0530,1,2025-08-27 02:53:00.000 +0530,1,,,Community,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023178665,94785339,2025-08-24 11:41:00.000 +0530,1,2025-08-25 01:45:00.000 +0530,1,,,Academic,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023065147,99616752,2025-08-24 14:47:00.000 +0530,1,2025-08-27 14:47:00.000 +0530,1,2025-08-27 14:57:00.000 +0530,1,Academic,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023514401,92556038,2025-08-24 13:37:00.000 +0530,1,2025-08-25 13:37:00.000 +0530,1,,,Community,No,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023514401,92556038,2025-08-24 19:53:00.000 +0530,1,2025-08-25 13:37:00.000 +0530,1,,,Community,No,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023346488,94285052,2025-08-24 09:31:00.000 +0530,1,2025-08-27 09:31:00.000 +0530,1,2025-08-27 09:36:00.000 +0530,1,Academic,Yes,South,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023123975,92363110,2025-08-24 14:54:00.000 +0530,1,2025-08-25 16:25:00.000 +0530,1,,,Community,No,North,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023246908,92157517,2025-08-24 21:54:00.000 +0530,1,2025-08-25 08:24:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023246908,92157517,2025-08-24 08:24:00.000 +0530,1,2025-08-25 08:24:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023607137,98259111,2025-08-24 05:58:00.000 +0530,1,2025-08-25 05:58:00.000 +0530,1,2025-08-25 06:08:00.000 +0530,1,Academic,Yes,North,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023497131,94257826,2025-08-24 20:06:00.000 +0530,1,2025-08-27 14:24:00.000 +0530,1,,,Community,No,East,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023527345,96340574,2025-08-24 05:41:00.000 +0530,1,2025-08-26 05:41:00.000 +0530,1,2025-08-26 05:51:00.000 +0530,1,Academic,Yes,East,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023369439,96380531,2025-08-24 15:40:00.000 +0530,1,2025-08-26 09:20:00.000 +0530,1,,,Community,No,Central,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023970208,97195366,2025-08-24 12:58:00.000 +0530,1,2025-08-25 22:39:00.000 +0530,1,2025-08-25 22:44:00.000 +0530,1,Community,No,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023970208,97195366,2025-08-24 22:39:00.000 +0530,1,2025-08-25 22:39:00.000 +0530,1,2025-08-25 22:44:00.000 +0530,1,Community,No,South,Yes
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023477574,90330265,2025-08-24 10:26:00.000 +0530,1,2025-08-26 09:56:00.000 +0530,1,,,Academic,Yes,Central,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023402686,93669238,2025-08-24 09:15:00.000 +0530,1,2025-08-26 21:20:00.000 +0530,1,2025-08-26 21:30:00.000 +0530,1,Academic,No,West,No
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023823519,96728983,2025-08-24 05:13:00.000 +0530,1,2025-08-26 12:44:00.000 +0530,1,,,Community,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023823519,96728983,2025-08-24 12:44:00.000 +0530,1,2025-08-26 12:44:00.000 +0530,1,,,Community,Yes,South,Yes
+Internal,internal,Email,ABC drug launch,Why choose ABC?,1023912147,95939831,2025-08-24 19:32:00.000 +0530,1,,,,,Community,Yes,North,No
+Internal,internal,Email,ABC med awareness,Latest research on ABC,1023912147,95939831,2025-08-24 01:17:00.000 +0530,1,,,,,Community,Yes,North,No
+Third party,Vendor 1,Display,"",,1038729530,93203672,2025-01-06 05:39:00.000 +0530,1,2025-01-06 05:40:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 1,Display,"",,1080525257,95343188,2025-02-15 09:34:00.000 +0530,1,2025-02-15 09:35:00.000 +0530,1,,,Academic,Yes,North,No
+Third party,Vendor 1,Display,"",,1122947025,94552190,2025-01-17 07:49:00.000 +0530,1,2025-01-17 07:50:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Display,"",,1132412600,96602081,2025-02-13 02:29:00.000 +0530,1,2025-02-13 02:31:00.000 +0530,1,,,Community,No,South,Yes
+Third party,Vendor 1,Display,"",,1161888557,99205369,2025-01-25 01:27:00.000 +0530,1,2025-01-25 01:27:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 1,Display,"",,1266853585,95153961,2025-01-26 07:45:00.000 +0530,1,2025-01-26 07:47:00.000 +0530,1,,,Academic,Yes,East,No
+Third party,Vendor 1,Display,"",,1288340429,91832620,2025-02-03 07:27:00.000 +0530,1,2025-02-03 07:28:00.000 +0530,2,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Display,"",,1296585738,95131129,2025-01-16 02:41:00.000 +0530,1,2025-01-16 02:41:00.000 +0530,2,,,Academic,No,East,No
+Third party,Vendor 1,Display,"",,1356689139,98035498,2025-01-11 05:03:00.000 +0530,1,2025-01-11 05:04:00.000 +0530,2,,,Community,Yes,West,Yes
+Third party,Vendor 1,Display,"",,1366248058,95138846,2025-02-09 08:23:00.000 +0530,1,2025-02-09 08:24:00.000 +0530,2,,,Academic,No,Central,No
+Third party,Vendor 1,Display,"",,1403238652,91663512,2025-01-22 07:18:00.000 +0530,1,2025-01-22 07:19:00.000 +0530,2,,,Community,No,Central,No
+Third party,Vendor 1,Display,"",,1499551991,93344478,2025-01-24 04:16:00.000 +0530,1,2025-01-24 04:17:00.000 +0530,1,,,Community,No,Central,No
+Third party,Vendor 1,Display,"",,1526565306,92130646,2025-01-13 03:38:00.000 +0530,1,2025-01-13 03:39:00.000 +0530,1,,,Academic,No,East,Yes
+Third party,Vendor 1,Display,"",,1528679151,97636941,2025-01-16 09:08:00.000 +0530,1,2025-01-16 09:10:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 1,Display,"",,1554967019,98798769,2025-02-14 07:38:00.000 +0530,1,2025-02-14 07:40:00.000 +0530,1,,,Academic,Yes,East,No
+Third party,Vendor 1,Display,"",,1635285190,98588766,2025-02-01 01:53:00.000 +0530,1,2025-02-01 01:54:00.000 +0530,2,,,Academic,Yes,East,No
+Third party,Vendor 1,Display,"",,1713635266,95404399,2025-01-06 10:01:00.000 +0530,1,2025-01-06 10:03:00.000 +0530,1,,,Community,Yes,North,No
+Third party,Vendor 1,Display,"",,1729475540,98422727,2025-02-10 02:27:00.000 +0530,1,2025-02-10 02:28:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Display,"",,1774664030,91758835,2025-02-04 11:46:00.000 +0530,1,2025-02-04 11:48:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Display,"",,1854171258,93973312,2025-01-02 02:39:00.000 +0530,1,2025-01-02 02:40:00.000 +0530,1,,,Community,No,South,No
+Third party,Vendor 1,Display,"",,1865116046,96831237,2025-01-01 08:34:00.000 +0530,1,2025-01-01 08:35:00.000 +0530,1,,,Community,No,West,No
+Third party,Vendor 1,Display,"",,1868936837,97826141,2025-01-03 05:25:00.000 +0530,1,2025-01-03 05:25:00.000 +0530,1,,,Academic,No,South,No
+Third party,Vendor 1,Display,"",,1869373520,93229794,2025-02-12 10:45:00.000 +0530,1,2025-02-12 10:46:00.000 +0530,1,,,Community,No,Central,Yes
+Third party,Vendor 1,Display,"",,1869978423,97927353,2025-01-04 11:43:00.000 +0530,1,2025-01-04 11:44:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,1885260102,93045671,2025-01-27 09:22:00.000 +0530,1,2025-01-27 09:24:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 1,Display,"",,1927980309,91837470,2025-01-04 06:58:00.000 +0530,1,2025-01-04 07:00:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Display,"",,1931337008,90323676,2025-02-09 03:53:00.000 +0530,1,2025-02-09 03:55:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,2146949287,91519165,2025-02-03 05:16:00.000 +0530,1,2025-02-03 05:16:00.000 +0530,1,,,Community,Yes,North,Yes
+Third party,Vendor 1,Display,"",,2181286464,95299488,2025-02-01 09:22:00.000 +0530,1,2025-02-01 09:23:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Display,"",,2203424638,94496848,2025-01-16 10:12:00.000 +0530,1,2025-01-16 10:13:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 1,Display,"",,2246608444,95445164,2025-01-07 04:56:00.000 +0530,1,2025-01-07 04:58:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 1,Display,"",,2315677253,94828436,2025-01-20 01:14:00.000 +0530,1,2025-01-20 01:15:00.000 +0530,1,,,Community,No,South,No
+Third party,Vendor 1,Display,"",,2354952557,98017927,2025-01-12 10:16:00.000 +0530,1,2025-01-12 10:16:00.000 +0530,1,,,Academic,Yes,East,No
+Third party,Vendor 1,Display,"",,2484667068,94199669,2025-02-08 07:53:00.000 +0530,1,2025-02-08 07:53:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Display,"",,2492175370,92419855,2025-01-21 07:04:00.000 +0530,1,2025-01-21 07:05:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 1,Display,"",,2508571089,94997633,2025-01-13 11:34:00.000 +0530,1,2025-01-13 11:35:00.000 +0530,1,,,Community,Yes,South,Yes
+Third party,Vendor 1,Display,"",,2521960405,97324211,2025-01-14 11:32:00.000 +0530,1,2025-01-14 11:33:00.000 +0530,1,,,Academic,No,North,Yes
+Third party,Vendor 1,Display,"",,2575569952,91460664,2025-02-12 10:22:00.000 +0530,1,2025-02-12 10:24:00.000 +0530,1,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Display,"",,2673960233,90867703,2025-01-19 11:43:00.000 +0530,1,2025-01-19 11:43:00.000 +0530,1,,,Community,Yes,East,Yes
+Third party,Vendor 1,Display,"",,2677377056,96421056,2025-01-13 03:39:00.000 +0530,1,2025-01-13 03:41:00.000 +0530,1,,,Academic,No,South,No
+Third party,Vendor 1,Display,"",,2743848019,96527848,2025-01-22 10:54:00.000 +0530,1,2025-01-22 10:56:00.000 +0530,1,,,Academic,Yes,East,No
+Third party,Vendor 1,Display,"",,2830708161,99858544,2025-01-02 04:10:00.000 +0530,1,2025-01-02 04:11:00.000 +0530,1,,,Community,No,Central,No
+Third party,Vendor 1,Display,"",,2831982727,95488647,2025-01-21 12:09:00.000 +0530,1,2025-01-21 12:10:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 1,Display,"",,2860233987,94052846,2025-01-21 11:20:00.000 +0530,1,2025-01-21 11:21:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Display,"",,2868584720,93160228,2025-02-08 12:39:00.000 +0530,1,2025-02-08 12:40:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Display,"",,2940545267,97032683,2025-01-20 02:21:00.000 +0530,1,2025-01-20 02:23:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Display,"",,2997781080,96567726,2025-01-27 08:15:00.000 +0530,1,2025-01-27 08:17:00.000 +0530,1,,,Community,Yes,North,Yes
+Third party,Vendor 1,Display,"",,2998224302,93520088,2025-01-31 10:58:00.000 +0530,1,2025-01-31 10:58:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 1,Display,"",,3099937404,95331982,2025-01-09 10:07:00.000 +0530,1,2025-01-09 10:08:00.000 +0530,1,,,Community,No,Central,No
+Third party,Vendor 1,Display,"",,3110283320,96499520,2025-01-01 02:35:00.000 +0530,1,,,,,Community,No,East,Yes
+Third party,Vendor 1,Display,"",,3117662948,92805477,2025-01-24 10:24:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Display,"",,3180970780,91325218,2025-01-14 11:42:00.000 +0530,1,2025-01-14 11:43:00.000 +0530,2,,,Community,Yes,South,No
+Third party,Vendor 1,Display,"",,3269814539,92149801,2025-01-30 01:37:00.000 +0530,1,2025-01-30 01:37:00.000 +0530,2,,,Academic,No,North,No
+Third party,Vendor 1,Display,"",,3299439261,99734231,2025-01-14 11:33:00.000 +0530,1,2025-01-14 11:33:00.000 +0530,2,,,Academic,No,South,No
+Third party,Vendor 1,Display,"",,3308048871,96934962,2025-01-06 07:28:00.000 +0530,1,2025-01-06 07:29:00.000 +0530,2,,,Community,Yes,West,No
+Third party,Vendor 1,Display,"",,3349337558,90862906,2025-01-25 01:35:00.000 +0530,1,2025-01-25 01:37:00.000 +0530,2,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,3378215825,98914135,2025-01-31 09:32:00.000 +0530,1,2025-01-31 09:33:00.000 +0530,2,,,Academic,Yes,North,No
+Third party,Vendor 1,Display,"",,3446885727,98263180,2025-01-05 11:25:00.000 +0530,1,2025-01-05 11:26:00.000 +0530,2,,,Academic,No,East,Yes
+Third party,Vendor 1,Display,"",,3500870110,92898623,2025-02-01 12:03:00.000 +0530,1,2025-02-01 12:05:00.000 +0530,2,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Display,"",,3506858468,92522256,2025-02-06 02:05:00.000 +0530,1,2025-02-06 02:06:00.000 +0530,2,,,Academic,Yes,East,No
+Third party,Vendor 1,Display,"",,3533862850,99781239,2025-01-21 07:46:00.000 +0530,1,2025-01-21 07:46:00.000 +0530,1,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Display,"",,3721206695,91312184,2025-02-01 09:53:00.000 +0530,1,2025-02-01 09:55:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 1,Display,"",,3774804755,99709712,2025-01-11 03:32:00.000 +0530,1,2025-01-11 03:33:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 1,Display,"",,3776748123,90210098,2025-01-01 03:17:00.000 +0530,1,2025-01-01 03:17:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Display,"",,3795124275,90651970,2025-02-02 07:18:00.000 +0530,1,2025-02-02 07:18:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 1,Display,"",,3859219060,95354836,2025-01-27 02:18:00.000 +0530,1,2025-01-27 02:19:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 1,Display,"",,3869215138,99282745,2025-01-21 12:25:00.000 +0530,1,2025-01-21 12:26:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Display,"",,3915969263,94321224,2025-01-19 09:05:00.000 +0530,1,2025-01-19 09:07:00.000 +0530,1,,,Community,No,Central,No
+Third party,Vendor 1,Display,"",,4058361421,90582157,2025-01-26 09:08:00.000 +0530,1,2025-01-26 09:09:00.000 +0530,1,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Display,"",,4176434916,91644590,2025-02-06 05:43:00.000 +0530,1,2025-02-06 05:44:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,4236878378,93550975,2025-01-26 09:27:00.000 +0530,1,2025-01-26 09:28:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 1,Display,"",,4319918178,98870702,2025-02-11 10:09:00.000 +0530,1,2025-02-11 10:09:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 1,Display,"",,4339901353,91864873,2025-01-27 10:25:00.000 +0530,1,2025-01-27 10:26:00.000 +0530,1,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Display,"",,4342719861,94455701,2025-01-01 06:18:00.000 +0530,1,2025-01-01 06:19:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 1,Display,"",,4503435621,97494266,2025-02-02 11:58:00.000 +0530,1,2025-02-02 11:58:00.000 +0530,1,,,Community,Yes,South,Yes
+Third party,Vendor 1,Display,"",,4588807827,94706426,2025-01-16 11:10:00.000 +0530,1,2025-01-16 11:11:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Display,"",,4609552732,90322012,2025-01-23 06:52:00.000 +0530,1,2025-01-23 06:53:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 1,Display,"",,4655846255,90032437,2025-01-14 07:17:00.000 +0530,1,2025-01-14 07:18:00.000 +0530,1,,,Community,Yes,East,Yes
+Third party,Vendor 1,Display,"",,4710530846,96616488,2025-01-24 09:50:00.000 +0530,1,2025-01-24 09:51:00.000 +0530,1,,,Community,Yes,West,No
+Third party,Vendor 1,Display,"",,4726926855,92881631,2025-02-12 05:15:00.000 +0530,1,2025-02-12 05:17:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,4773664011,91880151,2025-02-01 05:07:00.000 +0530,1,2025-02-01 05:09:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Display,"",,4795459064,97645795,2025-02-03 02:51:00.000 +0530,1,2025-02-03 02:51:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 1,Display,"",,4884535097,93262744,2025-02-09 08:33:00.000 +0530,1,2025-02-09 08:33:00.000 +0530,1,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Display,"",,4905071642,99759838,2025-01-29 05:36:00.000 +0530,1,2025-01-29 05:37:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 1,Display,"",,5036066847,90110460,2025-02-01 02:55:00.000 +0530,1,2025-02-01 02:56:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Display,"",,5138584889,90554432,2025-01-02 10:17:00.000 +0530,1,2025-01-02 10:18:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 1,Display,"",,5255447790,94952994,2025-01-03 06:34:00.000 +0530,1,2025-01-03 06:35:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,5280550031,91996483,2025-01-21 01:27:00.000 +0530,1,2025-01-21 01:28:00.000 +0530,1,,,Academic,No,East,Yes
+Third party,Vendor 1,Display,"",,5329825447,96737345,2025-01-26 04:09:00.000 +0530,1,2025-01-26 04:10:00.000 +0530,1,,,Community,Yes,Central,No
+Third party,Vendor 1,Display,"",,5331639558,99428810,2025-02-14 10:27:00.000 +0530,1,2025-02-14 10:29:00.000 +0530,2,,,Academic,No,South,Yes
+Third party,Vendor 1,Display,"",,5370194732,96043297,2025-01-04 02:57:00.000 +0530,1,2025-01-04 02:57:00.000 +0530,2,,,Community,No,West,No
+Third party,Vendor 1,Display,"",,5379732100,95321111,2025-02-03 12:21:00.000 +0530,1,2025-02-03 12:22:00.000 +0530,2,,,Community,No,East,No
+Third party,Vendor 1,Display,"",,5476893948,99280623,2025-02-09 10:45:00.000 +0530,1,2025-02-09 10:46:00.000 +0530,2,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Display,"",,5512466649,96725038,2025-01-27 02:07:00.000 +0530,1,2025-01-27 02:09:00.000 +0530,2,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Display,"",,5535951467,91230940,2025-02-01 11:44:00.000 +0530,1,2025-02-01 11:45:00.000 +0530,2,,,Academic,Yes,North,No
+Third party,Vendor 1,Display,"",,5548480983,93477980,2025-02-11 05:30:00.000 +0530,1,2025-02-11 05:31:00.000 +0530,2,,,Community,No,South,Yes
+Third party,Vendor 1,Display,"",,5568349765,98286250,2025-02-02 06:21:00.000 +0530,1,2025-02-02 06:22:00.000 +0530,2,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Display,"",,5577690919,90782689,2025-01-29 08:08:00.000 +0530,1,2025-01-29 08:09:00.000 +0530,2,,,Community,No,West,No
+Third party,Vendor 1,Display,"",,5633619942,90109053,2025-02-10 11:49:00.000 +0530,1,2025-02-10 11:49:00.000 +0530,2,,,Academic,No,South,No
+Third party,Vendor 1,Display,"",,5660714765,99933647,2025-02-05 07:00:00.000 +0530,1,2025-02-05 07:00:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 2,Display,"",,5716702504,92493442,2025-01-27 04:59:00.000 +0530,1,2025-01-27 05:00:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 2,Display,"",,5749437808,97789342,2025-01-31 07:52:00.000 +0530,1,2025-01-31 07:53:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 2,Display,"",,5750721579,97382372,2025-01-19 13:28:00.000 +0530,1,2025-01-19 13:29:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 2,Display,"",,5837785079,94107211,2025-01-19 11:09:00.000 +0530,1,2025-01-19 11:11:00.000 +0530,1,,,Academic,Yes,East,No
+Third party,Vendor 2,Display,"",,5842507761,98952976,2025-02-14 04:29:00.000 +0530,1,2025-02-14 04:31:00.000 +0530,1,,,Academic,Yes,East,Yes
+Third party,Vendor 2,Display,"",,5887468356,91289118,2025-01-31 03:07:00.000 +0530,1,2025-01-31 03:08:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 2,Display,"",,5892628028,93059602,2025-01-17 18:31:00.000 +0530,1,2025-01-17 18:32:00.000 +0530,1,,,Academic,Yes,East,Yes
+Third party,Vendor 2,Display,"",,5932598907,99941769,2025-01-11 10:27:00.000 +0530,1,2025-01-11 10:28:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 2,Display,"",,6005417865,92629286,2025-01-01 11:37:00.000 +0530,1,2025-01-01 11:38:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 2,Display,"",,6040463768,91955806,2025-01-29 05:51:00.000 +0530,1,2025-01-29 05:53:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 2,Display,"",,6072886365,90750452,2025-01-19 22:01:00.000 +0530,1,2025-01-19 22:02:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 2,Display,"",,6085551807,98498421,2025-02-12 17:10:00.000 +0530,1,2025-02-12 17:11:00.000 +0530,1,,,Academic,Yes,North,Yes
+Third party,Vendor 2,Display,"",,6099008121,91879910,2025-02-13 03:01:00.000 +0530,1,2025-02-13 03:02:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 2,Display,"",,6196169932,93878482,2025-01-07 01:39:00.000 +0530,1,2025-01-07 01:40:00.000 +0530,1,,,Community,No,East,Yes
+Third party,Vendor 2,Display,"",,6225760359,92927021,2025-01-30 13:31:00.000 +0530,1,2025-01-30 13:31:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 2,Display,"",,6323263308,93098457,2025-02-11 22:54:00.000 +0530,1,2025-02-11 22:55:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 2,Display,"",,6483825034,93323255,2025-02-10 15:52:00.000 +0530,1,2025-02-10 15:52:00.000 +0530,1,,,Community,Yes,South,No
+Third party,Vendor 2,Display,"",,6483968585,94706416,2025-01-11 16:47:00.000 +0530,1,2025-01-11 16:48:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 2,Display,"",,6612217676,91003846,2025-02-06 01:45:00.000 +0530,1,2025-02-06 01:46:00.000 +0530,1,,,Community,Yes,East,No
+Third party,Vendor 2,Display,"",,6614939981,96886891,2025-01-21 12:19:00.000 +0530,1,2025-01-21 12:20:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 2,Display,"",,6621138064,92686808,2025-01-18 11:05:00.000 +0530,1,2025-01-18 11:06:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 2,Display,"",,6625117561,96428123,2025-01-21 09:24:00.000 +0530,1,2025-01-21 09:24:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 2,Display,"",,6629719264,91991962,2025-01-21 12:34:00.000 +0530,1,2025-01-21 12:35:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 2,Display,"",,6646102477,95993524,2025-01-26 09:44:00.000 +0530,1,2025-01-26 09:44:00.000 +0530,1,,,Academic,No,South,No
+Third party,Vendor 2,Display,"",,6668259943,93693880,2025-01-26 02:56:00.000 +0530,1,2025-01-26 02:58:00.000 +0530,1,,,Academic,Yes,South,Yes
+Third party,Vendor 2,Display,"",,6690141450,97844348,2025-01-01 04:24:00.000 +0530,1,2025-01-01 04:24:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 2,Display,"",,6764765934,90893666,2025-01-13 19:59:00.000 +0530,1,2025-01-13 20:00:00.000 +0530,1,,,Academic,Yes,East,No
+Third party,Vendor 2,Display,"",,6796257084,92373489,2025-01-03 04:43:00.000 +0530,1,2025-01-03 04:44:00.000 +0530,1,,,Academic,No,East,Yes
+Third party,Vendor 2,Display,"",,6859458141,90882538,2025-01-12 07:31:00.000 +0530,1,2025-01-12 07:33:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 2,Display,"",,6887214567,97502500,2025-02-15 16:02:00.000 +0530,1,2025-02-15 16:03:00.000 +0530,1,,,Academic,Yes,Central,Yes
+Third party,Vendor 2,Display,"",,6918198416,98163215,2025-01-10 00:32:00.000 +0530,1,2025-01-10 00:33:00.000 +0530,1,,,Community,No,Central,No
+Third party,Vendor 2,Display,"",,6945499588,91435853,2025-02-04 21:18:00.000 +0530,1,2025-02-04 21:19:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 2,Display,"",,7066119738,96246520,2025-01-16 03:33:00.000 +0530,1,2025-01-16 03:35:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 2,Display,"",,7127370788,94674952,2025-02-15 19:50:00.000 +0530,1,2025-02-15 19:51:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 2,Display,"",,7131662932,90064694,2025-01-03 08:49:00.000 +0530,1,2025-01-03 08:50:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 2,Display,"",,7194090223,99990013,2025-01-17 05:26:00.000 +0530,1,2025-01-17 05:27:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 2,Display,"",,7206366873,97132613,2025-01-21 11:49:00.000 +0530,1,2025-01-21 11:50:00.000 +0530,1,,,Community,No,West,No
+Third party,Vendor 2,Display,"",,7345036486,98425462,2025-01-19 08:11:00.000 +0530,1,2025-01-19 08:13:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 2,Display,"",,7374009394,96007379,2025-01-27 13:38:00.000 +0530,1,2025-01-27 13:39:00.000 +0530,1,,,Community,Yes,North,No
+Third party,Vendor 2,Display,"",,7530822577,91112557,2025-02-09 11:12:00.000 +0530,1,2025-02-09 11:12:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 2,Display,"",,7627691707,91421964,2025-01-03 05:06:00.000 +0530,1,2025-01-03 05:07:00.000 +0530,1,,,Community,No,West,No
+Third party,Vendor 2,Display,"",,7667775287,90478962,2025-01-10 05:55:00.000 +0530,1,2025-01-10 05:56:00.000 +0530,1,,,Community,Yes,South,No
+Third party,Vendor 2,Display,"",,7715652088,95489612,2025-02-09 01:02:00.000 +0530,1,2025-02-09 01:03:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 2,Display,"",,7748895286,91271155,2025-02-04 00:52:00.000 +0530,1,2025-02-04 00:53:00.000 +0530,1,,,Community,Yes,Central,No
+Third party,Vendor 2,Display,"",,7841119191,96092359,2025-01-08 05:09:00.000 +0530,1,2025-01-08 05:09:00.000 +0530,1,,,Community,Yes,Central,No
+Third party,Vendor 2,Display,"",,7871774467,95447128,2025-01-18 04:46:00.000 +0530,1,2025-01-18 04:47:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 2,Display,"",,7904043727,90883214,2025-01-02 16:31:00.000 +0530,1,2025-01-02 16:32:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 2,Display,"",,7941121198,96297089,2025-02-03 06:07:00.000 +0530,1,2025-02-03 06:07:00.000 +0530,1,,,Academic,No,North,Yes
+Third party,Vendor 2,Display,"",,7945825991,92166697,2025-01-01 09:17:00.000 +0530,1,2025-01-01 09:19:00.000 +0530,1,,,Community,Yes,North,No
+Third party,Vendor 2,Display,"",,7946952579,97224610,2025-02-07 22:13:00.000 +0530,1,2025-02-07 22:13:00.000 +0530,1,,,Community,No,South,Yes
+Third party,Vendor 2,Display,"",,7982813904,93597124,2025-01-27 09:17:00.000 +0530,1,2025-01-27 09:17:00.000 +0530,1,,,Community,No,East,Yes
+Third party,Vendor 2,Display,"",,7984159875,90886036,2025-01-03 20:30:00.000 +0530,1,2025-01-03 20:30:00.000 +0530,1,,,Community,Yes,South,No
+Third party,Vendor 2,Display,"",,8111766142,90905863,2025-01-10 23:24:00.000 +0530,1,2025-01-10 23:26:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 2,Display,"",,8176572748,94301926,2025-02-08 04:50:00.000 +0530,1,2025-02-08 04:50:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 2,Display,"",,8191810934,95659542,2025-01-16 08:39:00.000 +0530,1,2025-01-16 08:40:00.000 +0530,1,,,Academic,No,South,No
+Third party,Vendor 2,Display,"",,8209229820,91041277,2025-02-13 15:57:00.000 +0530,1,2025-02-13 15:59:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 2,Display,"",,8220821395,97451205,2025-02-11 11:56:00.000 +0530,1,2025-02-11 11:57:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 2,Display,"",,8259694406,98785315,2025-01-08 03:24:00.000 +0530,1,2025-01-08 03:26:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 2,Display,"",,8266575775,95349239,2025-02-08 00:24:00.000 +0530,1,2025-02-08 00:24:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 2,Display,"",,8300404519,92422188,2025-01-25 18:44:00.000 +0530,1,2025-01-25 18:45:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 2,Display,"",,8456199581,94103736,2025-01-26 07:27:00.000 +0530,1,2025-01-26 07:27:00.000 +0530,1,,,Community,Yes,South,Yes
+Third party,Vendor 2,Display,"",,8467713523,92531392,2025-01-21 22:24:00.000 +0530,1,2025-01-21 22:25:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 2,Display,"",,8495814898,92889264,2025-02-11 07:13:00.000 +0530,1,2025-02-11 07:15:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 2,Display,"",,8505602171,94934774,2025-01-21 15:36:00.000 +0530,1,2025-01-21 15:38:00.000 +0530,1,,,Academic,Yes,East,Yes
+Third party,Vendor 2,Display,"",,8560500866,97558827,2025-01-17 07:49:00.000 +0530,1,2025-01-17 07:50:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 2,Display,"",,8571160942,97721094,2025-01-26 03:44:00.000 +0530,1,2025-01-26 03:45:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 2,Display,"",,8655415726,93113651,2025-01-20 02:15:00.000 +0530,1,2025-01-20 02:16:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 2,Display,"",,8763781056,99458133,2025-01-28 11:17:00.000 +0530,1,2025-01-28 11:18:00.000 +0530,1,,,Community,Yes,North,No
+Third party,Vendor 2,Display,"",,8769197961,95413217,2025-01-14 20:50:00.000 +0530,1,2025-01-14 20:51:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 2,Display,"",,8798663353,98356761,2025-01-13 02:25:00.000 +0530,1,2025-01-13 02:27:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 2,Display,"",,8806527450,96296963,2025-01-22 03:18:00.000 +0530,1,2025-01-22 03:19:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 2,Display,"",,8808427429,96676738,2025-02-09 01:54:00.000 +0530,1,,,,,Academic,Yes,West,No
+Third party,Vendor 2,Display,"",,8837045247,97825963,2025-01-17 16:37:00.000 +0530,1,2025-01-17 16:38:00.000 +0530,2,,,Community,No,Central,Yes
+Third party,Vendor 2,Display,"",,8874118303,91574473,2025-01-06 15:33:00.000 +0530,1,2025-01-06 15:34:00.000 +0530,2,,,Community,No,West,No
+Third party,Vendor 2,Display,"",,8896134437,92703081,2025-01-03 09:33:00.000 +0530,1,2025-01-03 09:33:00.000 +0530,2,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,1001094416,93065097,2025-08-24 14:02:00.000 +0530,1,,,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,1022814185,99155280,2025-08-24 19:44:00.000 +0530,1,2025-08-27 19:44:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,1068983064,93212723,2025-08-24 10:51:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,1131279608,91106267,2025-08-24 02:18:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,1169707512,94315863,2025-08-24 08:24:00.000 +0530,1,2025-08-25 08:24:00.000 +0530,1,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,1175010514,95163530,2025-08-24 21:57:00.000 +0530,1,2025-08-27 21:57:00.000 +0530,1,2025-08-27 22:02:00.000 +0530,1,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,1216342975,91492061,2025-08-24 14:45:00.000 +0530,1,,,,,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,1250322331,96274128,2025-08-24 07:47:00.000 +0530,1,2025-08-27 07:47:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,1310901730,99644187,2025-08-24 08:17:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,1327916224,96770905,2025-08-24 20:57:00.000 +0530,1,,,,,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,1347019010,99648055,2025-08-24 07:42:00.000 +0530,1,,,,,Community,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,1350607213,99791941,2025-08-24 14:47:00.000 +0530,1,2025-08-27 14:47:00.000 +0530,1,2025-08-27 14:57:00.000 +0530,1,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,1372017374,90085953,2025-08-24 02:36:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,1404368840,94579944,2025-08-24 22:40:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,1415504429,92742679,2025-08-24 11:32:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,1427574906,93499483,2025-08-24 22:04:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,1436146980,92683825,2025-08-24 01:53:00.000 +0530,1,,,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,1440623016,90660554,2025-08-24 09:31:00.000 +0530,1,2025-08-27 09:31:00.000 +0530,1,2025-08-27 09:36:00.000 +0530,1,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,1451569285,95828085,2025-08-24 18:19:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,1529074975,91999940,2025-08-24 00:53:00.000 +0530,1,,,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,1554929143,93396034,2025-08-24 08:50:00.000 +0530,1,2025-08-25 08:50:00.000 +0530,1,2025-08-25 09:00:00.000 +0530,1,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,1558231184,91319532,2025-08-24 22:10:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,1558231184,91319532,2025-08-24 07:38:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,1560425310,96354326,2025-08-24 08:22:00.000 +0530,1,2025-08-26 08:22:00.000 +0530,1,2025-08-26 08:32:00.000 +0530,1,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,1620175818,99539309,2025-08-24 14:06:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,1622863762,91959678,2025-08-24 16:22:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,1640656520,90111932,2025-08-24 03:40:00.000 +0530,1,2025-08-25 03:40:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,1675814185,90213760,2025-08-24 18:03:00.000 +0530,1,2025-08-27 18:03:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,1684390870,91103412,2025-08-24 18:46:00.000 +0530,1,2025-08-27 18:46:00.000 +0530,1,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,1718705148,97808796,2025-08-24 04:13:00.000 +0530,1,,,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,1778926534,96736531,2025-08-24 15:00:00.000 +0530,1,,,,,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,1815791824,90881909,2025-08-24 08:20:00.000 +0530,1,2025-08-26 08:20:00.000 +0530,1,2025-08-26 08:30:00.000 +0530,1,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,1842462129,90403218,2025-08-24 09:25:00.000 +0530,1,,,,,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,1849553386,91146511,2025-08-24 15:49:00.000 +0530,1,2025-08-25 15:49:00.000 +0530,1,2025-08-25 16:19:00.000 +0530,1,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,1870633128,96464320,2025-08-24 16:25:00.000 +0530,1,2025-08-25 16:25:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,1872884173,96510566,2025-08-24 18:57:00.000 +0530,1,,,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,1913096897,91127523,2025-08-24 05:59:00.000 +0530,1,2025-08-26 05:59:00.000 +0530,1,2025-08-26 06:09:00.000 +0530,1,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,1943315072,96085681,2025-08-24 05:13:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,2082098796,93586695,2025-08-24 20:49:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,2095413162,97012244,2025-08-24 14:05:00.000 +0530,1,2025-08-25 14:05:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,2099840938,98760296,2025-08-24 17:14:00.000 +0530,1,2025-08-27 17:14:00.000 +0530,1,2025-08-27 17:24:00.000 +0530,1,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,2101942559,93446686,2025-08-24 19:40:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,2106793125,96165994,2025-08-24 18:40:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,2168541239,93746740,2025-08-24 09:51:00.000 +0530,1,2025-08-25 09:51:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,2182139736,99706503,2025-08-24 23:19:00.000 +0530,1,2025-08-27 23:19:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,2185758034,91306892,2025-08-24 07:14:00.000 +0530,1,2025-08-27 07:14:00.000 +0530,1,2025-08-27 07:24:00.000 +0530,1,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,2189846031,92526101,2025-08-24 02:13:00.000 +0530,1,2025-08-25 02:13:00.000 +0530,1,2025-08-25 02:23:00.000 +0530,1,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,2223562521,99588055,2025-08-24 11:33:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,2270842870,98713890,2025-08-24 22:24:00.000 +0530,1,2025-08-27 22:24:00.000 +0530,1,2025-08-27 22:54:00.000 +0530,1,Community,No,East,Yes
+Third party,Vendor 1,Third party email,"",,2281261334,91081419,2025-08-24 19:21:00.000 +0530,1,,,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,2282649386,98639486,2025-08-24 06:26:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,2355487542,93817281,2025-08-24 18:26:00.000 +0530,1,2025-08-27 18:26:00.000 +0530,1,2025-08-27 18:36:00.000 +0530,1,Community,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,2356282627,95770455,2025-08-24 06:44:00.000 +0530,1,2025-08-27 06:44:00.000 +0530,1,2025-08-27 06:49:00.000 +0530,1,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,2380546821,91308566,2025-08-24 02:22:00.000 +0530,1,,,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,2384450685,94109753,2025-08-24 21:42:00.000 +0530,1,2025-08-27 21:42:00.000 +0530,1,2025-08-27 21:47:00.000 +0530,1,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,2389264002,93846589,2025-08-24 20:50:00.000 +0530,1,2025-08-25 20:50:00.000 +0530,1,2025-08-25 21:20:00.000 +0530,1,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,2414757993,93798650,2025-08-24 14:48:00.000 +0530,1,2025-08-25 14:48:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,2439742704,94615645,2025-08-24 18:41:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,2470087064,93522883,2025-08-24 11:01:00.000 +0530,1,,,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,2488734388,90809722,2025-08-24 23:02:00.000 +0530,1,2025-08-27 23:02:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,2594787356,96096658,2025-08-24 23:09:00.000 +0530,1,,,,,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,2599986728,90736724,2025-08-24 16:42:00.000 +0530,1,2025-08-27 16:42:00.000 +0530,1,2025-08-27 16:52:00.000 +0530,1,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,2606579885,91160900,2025-08-24 09:15:00.000 +0530,1,,,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,2607784584,97710818,2025-08-24 00:00:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,2617706168,96831549,2025-08-24 19:48:00.000 +0530,1,,,,,Community,Yes,North,No
+Third party,Vendor 1,Third party email,"",,2626975133,94085604,2025-08-24 05:22:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,2634854715,94687734,2025-08-24 08:06:00.000 +0530,1,2025-08-26 08:06:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,2655078089,97312544,2025-08-24 21:54:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,2664045935,90491470,2025-08-24 05:25:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,2664515017,94130914,2025-08-24 07:13:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,2680421077,93986751,2025-08-24 07:31:00.000 +0530,1,2025-08-25 07:31:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,2693640600,99856383,2025-08-24 12:49:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,2747245378,98513250,2025-08-24 14:54:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,2761577647,99097741,2025-08-24 10:26:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,2823799955,93271310,2025-08-24 10:41:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,2839850905,91502211,2025-08-24 19:03:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,2857389872,99061143,2025-08-24 08:43:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,2919841875,93329776,2025-08-24 03:19:00.000 +0530,1,2025-08-27 03:19:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,2920710764,97526146,2025-08-24 04:54:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,2948209574,92443679,2025-08-24 01:32:00.000 +0530,1,,,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,2950083248,91405122,2025-08-24 09:42:00.000 +0530,1,2025-08-27 09:42:00.000 +0530,1,2025-08-27 09:47:00.000 +0530,1,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,2996346181,95090435,2025-08-24 14:04:00.000 +0530,1,2025-08-25 14:04:00.000 +0530,2,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,3026936270,90498049,2025-08-24 23:21:00.000 +0530,1,,,,,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,3107562812,91455693,2025-08-24 15:00:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,3114605703,93470825,2025-08-24 00:19:00.000 +0530,1,2025-08-27 00:19:00.000 +0530,1,2025-08-27 00:29:00.000 +0530,1,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,3154659082,92259060,2025-08-24 14:17:00.000 +0530,1,2025-08-27 14:17:00.000 +0530,1,2025-08-27 14:47:00.000 +0530,1,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,3176512760,94811897,2025-08-24 18:32:00.000 +0530,1,,,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,3240037931,95654061,2025-08-24 08:47:00.000 +0530,1,,,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,3258951532,98916878,2025-08-24 06:04:00.000 +0530,1,2025-08-27 06:04:00.000 +0530,1,2025-08-27 06:14:00.000 +0530,1,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,3274348349,99879009,2025-08-24 13:09:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,3286647316,91409008,2025-08-24 08:23:00.000 +0530,1,2025-08-27 08:23:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,3287183706,93538180,2025-08-24 23:02:00.000 +0530,1,,,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,3295946424,93502540,2025-08-24 05:24:00.000 +0530,1,2025-08-26 05:24:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,3338630264,92099672,2025-08-24 18:04:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,3342386515,96561610,2025-08-24 05:28:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,3364900526,94229264,2025-08-24 10:43:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,3376750947,90919204,2025-08-24 21:50:00.000 +0530,1,2025-08-26 21:50:00.000 +0530,1,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,3395237784,95195130,2025-08-24 19:07:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,3417977583,95869368,2025-08-24 11:49:00.000 +0530,1,2025-08-25 11:49:00.000 +0530,1,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,3421285106,94130438,2025-08-24 06:58:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,3441204770,96243547,2025-08-24 03:27:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,3454342857,95852802,2025-08-24 19:08:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,3497055738,92309616,2025-08-24 10:20:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,3521844386,99812516,2025-08-24 22:00:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,3529606006,91392446,2025-08-24 06:34:00.000 +0530,1,2025-08-26 06:34:00.000 +0530,1,2025-08-26 07:04:00.000 +0530,1,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,3544310070,99469065,2025-08-24 06:00:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,3591696696,93278750,2025-08-24 00:55:00.000 +0530,1,,,,,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,3591931597,96687280,2025-08-24 19:01:00.000 +0530,1,,,,,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,3629438522,97099701,2025-08-24 23:16:00.000 +0530,1,,,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,3641101102,90118910,2025-08-24 22:25:00.000 +0530,1,2025-08-26 22:25:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,3651505504,90479477,2025-08-24 17:08:00.000 +0530,1,2025-08-25 17:08:00.000 +0530,1,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,3660174457,95932533,2025-08-24 13:55:00.000 +0530,1,,,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,3678849190,96454304,2025-08-24 02:01:00.000 +0530,1,,,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,3687688398,96738963,2025-08-24 01:19:00.000 +0530,1,2025-08-26 01:19:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,3720140393,99013570,2025-08-24 16:09:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,3739761594,98291541,2025-08-24 05:45:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,3804096467,99418907,2025-08-24 15:40:00.000 +0530,1,,,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,3809857897,93587905,2025-08-24 11:13:00.000 +0530,1,,,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,3810379406,95067070,2025-08-24 16:59:00.000 +0530,1,2025-08-26 16:59:00.000 +0530,2,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,3818710749,94091375,2025-08-24 19:47:00.000 +0530,1,2025-08-26 19:47:00.000 +0530,1,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,3845302231,95554040,2025-08-24 08:29:00.000 +0530,1,2025-08-27 08:29:00.000 +0530,1,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,3857152937,92677892,2025-08-24 08:09:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,3865445872,99112836,2025-08-24 04:57:00.000 +0530,1,,,,,Community,No,East,Yes
+Third party,Vendor 1,Third party email,"",,3871348469,97844417,2025-08-24 00:20:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,3882405059,92143504,2025-08-24 04:13:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,3900744033,91402207,2025-08-24 09:56:00.000 +0530,1,2025-08-26 09:56:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,3910875616,90276387,2025-08-24 14:58:00.000 +0530,1,2025-08-25 14:58:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,3928901768,90656975,2025-08-24 14:26:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,3934675521,96250883,2025-08-24 19:08:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,3969575576,99757271,2025-08-24 14:03:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,4046105425,99334913,2025-08-24 00:55:00.000 +0530,1,,,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,4061403355,98199706,2025-08-24 16:48:00.000 +0530,1,2025-08-27 16:48:00.000 +0530,1,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,4077914511,92183927,2025-08-24 21:38:00.000 +0530,1,,,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,4088933236,93617681,2025-08-24 17:34:00.000 +0530,1,2025-08-25 17:34:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,4099671703,92708615,2025-08-24 09:34:00.000 +0530,1,,,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,4136942054,98217857,2025-08-24 00:20:00.000 +0530,1,2025-08-26 00:20:00.000 +0530,1,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,4162717328,99154895,2025-08-24 13:32:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,4181891284,93534994,2025-08-24 01:45:00.000 +0530,1,2025-08-25 01:45:00.000 +0530,1,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,4217324724,91116844,2025-08-24 20:19:00.000 +0530,1,,,,,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,4217324724,91116844,2025-08-24 09:58:00.000 +0530,1,,,,,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,4224475626,99407381,2025-08-24 11:35:00.000 +0530,1,2025-08-25 11:35:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,4241032548,93919054,2025-08-24 14:35:00.000 +0530,1,2025-08-26 14:35:00.000 +0530,1,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,4274079058,94928096,2025-08-24 13:35:00.000 +0530,1,,,,,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,4280632646,92669095,2025-08-24 14:04:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,4282768745,94532765,2025-08-24 14:03:00.000 +0530,1,2025-08-27 14:03:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,4292246805,97688283,2025-08-24 15:20:00.000 +0530,1,,,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,4308739729,93458859,2025-08-24 11:28:00.000 +0530,1,,,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,4336811309,92116979,2025-08-24 11:54:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,4348814534,92639772,2025-08-24 16:11:00.000 +0530,1,,,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,4359778453,90943252,2025-08-24 11:06:00.000 +0530,1,,,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,4391894342,92945639,2025-08-24 06:12:00.000 +0530,1,2025-08-27 06:12:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,4396939081,99060462,2025-08-24 02:57:00.000 +0530,1,2025-08-27 02:57:00.000 +0530,2,2025-08-27 03:02:00.000 +0530,1,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,4401877030,95962708,2025-08-24 06:39:00.000 +0530,1,,,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,4404162350,96375967,2025-08-24 23:41:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,4418888474,91816723,2025-08-24 17:04:00.000 +0530,1,2025-08-27 17:04:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,4424021629,91552247,2025-08-24 11:06:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,4501403346,97400439,2025-08-24 13:49:00.000 +0530,1,2025-08-27 13:49:00.000 +0530,1,2025-08-27 13:54:00.000 +0530,1,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,4520325963,99190721,2025-08-24 02:51:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,4533769220,95342621,2025-08-24 07:19:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,4609799955,97095511,2025-08-24 04:42:00.000 +0530,1,2025-08-26 04:42:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,4658299946,99174218,2025-08-24 11:13:00.000 +0530,1,2025-08-25 11:13:00.000 +0530,1,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,4703434778,97373477,2025-08-24 12:37:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,4742141348,90974579,2025-08-24 05:45:00.000 +0530,1,,,,,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,4749568910,93303811,2025-08-24 09:42:00.000 +0530,1,2025-08-26 09:42:00.000 +0530,2,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,4770198135,98688119,2025-08-24 17:24:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,4788430302,98289804,2025-08-24 06:09:00.000 +0530,1,,,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,4813545481,97176855,2025-08-24 11:41:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,4833573857,99942329,2025-08-24 18:37:00.000 +0530,1,,,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,4838113362,93037506,2025-08-24 05:13:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,4853367288,90122312,2025-08-24 12:44:00.000 +0530,1,,,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,4876320850,90924251,2025-08-24 22:50:00.000 +0530,1,2025-08-27 22:50:00.000 +0530,1,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,4911402609,91128619,2025-08-24 03:29:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,4933248691,96794277,2025-08-24 13:00:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,4948562931,91378069,2025-08-24 06:14:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,4973623951,95982894,2025-08-24 19:22:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,4978868100,97879349,2025-08-24 00:46:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,5051236670,91056454,2025-08-24 03:36:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,5052521964,90065744,2025-08-24 15:51:00.000 +0530,1,2025-08-27 15:51:00.000 +0530,1,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,5066472738,97395540,2025-08-24 03:09:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,5078281638,96938895,2025-08-24 05:58:00.000 +0530,1,2025-08-25 05:58:00.000 +0530,1,2025-08-25 06:08:00.000 +0530,1,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,5107699711,99723754,2025-08-24 17:21:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,5110670525,99317229,2025-08-24 22:32:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,5141549496,91904153,2025-08-24 08:36:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,5148550180,98933513,2025-08-24 12:41:00.000 +0530,1,,,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,5150144420,92427023,2025-08-24 23:04:00.000 +0530,1,2025-08-26 23:04:00.000 +0530,1,2025-08-26 23:09:00.000 +0530,1,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,5150641791,96690299,2025-08-24 02:30:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,5155580367,96514134,2025-08-24 06:24:00.000 +0530,1,2025-08-27 06:24:00.000 +0530,1,2025-08-27 06:29:00.000 +0530,1,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,5170089974,98845707,2025-08-24 02:39:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,5172632301,98853464,2025-08-24 06:10:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,5173769511,98693099,2025-08-24 23:22:00.000 +0530,1,,,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,5189323253,97664905,2025-08-24 07:57:00.000 +0530,1,2025-08-25 07:57:00.000 +0530,1,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,5231067324,99683258,2025-08-24 13:37:00.000 +0530,1,2025-08-25 13:37:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,5273360959,93073796,2025-08-24 16:05:00.000 +0530,1,2025-08-26 16:05:00.000 +0530,1,2025-08-26 16:35:00.000 +0530,1,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,5293452663,91634003,2025-08-24 02:29:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,5372368471,93522630,2025-08-24 18:59:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,5372368471,93522630,2025-08-24 03:22:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,5373761588,97814733,2025-08-24 21:35:00.000 +0530,1,,,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,5407218909,97376551,2025-08-24 20:16:00.000 +0530,1,2025-08-26 20:16:00.000 +0530,1,2025-08-26 20:21:00.000 +0530,1,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,5432417020,94184399,2025-08-24 09:33:00.000 +0530,1,,,,,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,5438024062,92468651,2025-08-24 08:44:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,5520892827,96971066,2025-08-24 11:38:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,5537003888,97753458,2025-08-24 16:49:00.000 +0530,1,2025-08-27 16:49:00.000 +0530,1,2025-08-27 17:19:00.000 +0530,1,Community,Yes,North,No
+Third party,Vendor 1,Third party email,"",,5541175191,97390100,2025-08-24 04:58:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,5557190946,98946938,2025-08-24 14:11:00.000 +0530,1,,,,,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,5589883468,93324061,2025-08-24 06:40:00.000 +0530,1,,,,,Community,No,East,Yes
+Third party,Vendor 1,Third party email,"",,5592537955,94026992,2025-08-24 08:51:00.000 +0530,1,2025-08-25 08:51:00.000 +0530,1,2025-08-25 08:56:00.000 +0530,1,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,5611927603,92504943,2025-08-24 23:21:00.000 +0530,1,2025-08-25 23:21:00.000 +0530,1,2025-08-25 23:26:00.000 +0530,1,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,5647195058,94007593,2025-08-24 23:05:00.000 +0530,1,2025-08-27 23:05:00.000 +0530,1,2025-08-27 23:10:00.000 +0530,1,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,5705358638,99159239,2025-08-24 18:26:00.000 +0530,1,,,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,5707529235,92626302,2025-08-24 16:22:00.000 +0530,1,,,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,5722257951,92103923,2025-08-24 19:00:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,5730487725,97601106,2025-08-24 11:58:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,5752424976,93417516,2025-08-24 15:09:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,5754097996,93599951,2025-08-24 20:43:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,5768426710,94838260,2025-08-24 21:00:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,5771797303,98809193,2025-08-24 13:12:00.000 +0530,1,2025-08-27 13:12:00.000 +0530,1,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,5774475359,94558522,2025-08-24 11:59:00.000 +0530,1,2025-08-27 11:59:00.000 +0530,1,2025-08-27 12:04:00.000 +0530,1,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,5781404055,94653502,2025-08-24 06:45:00.000 +0530,1,,,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,5787737327,92614035,2025-08-24 18:42:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,5810258741,97016724,2025-08-24 19:53:00.000 +0530,1,,,,,Community,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,5820133435,97856642,2025-08-24 13:58:00.000 +0530,1,,,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,5843212473,97375669,2025-08-24 09:02:00.000 +0530,1,2025-08-25 09:02:00.000 +0530,1,2025-08-25 09:07:00.000 +0530,1,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,5879515919,91688988,2025-08-24 15:58:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,5931909165,97129760,2025-08-24 12:56:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,5971993781,93629233,2025-08-24 21:55:00.000 +0530,1,2025-08-25 21:55:00.000 +0530,1,2025-08-25 22:05:00.000 +0530,1,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,5982394186,98797939,2025-08-24 12:36:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,5995551836,96448246,2025-08-24 04:32:00.000 +0530,1,,,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,6013403629,99705462,2025-08-24 23:48:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,6033888750,97560012,2025-08-24 00:25:00.000 +0530,1,,,,,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,6056790717,97078779,2025-08-24 06:06:00.000 +0530,1,2025-08-25 06:06:00.000 +0530,1,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,6064822822,97138888,2025-08-24 22:43:00.000 +0530,1,2025-08-26 22:43:00.000 +0530,1,2025-08-26 22:53:00.000 +0530,1,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,6076188050,92541838,2025-08-24 19:54:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,6095372827,91908913,2025-08-24 21:49:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,6101399666,98944449,2025-08-24 15:06:00.000 +0530,1,2025-08-27 15:06:00.000 +0530,2,2025-08-27 15:36:00.000 +0530,1,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,6119438979,92733576,2025-08-24 08:27:00.000 +0530,1,,,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,6176330643,96657576,2025-08-24 12:35:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,6213709249,91597002,2025-08-24 10:12:00.000 +0530,1,2025-08-27 10:12:00.000 +0530,1,2025-08-27 10:22:00.000 +0530,1,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,6213905524,90754706,2025-08-24 01:09:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,6239084103,92984384,2025-08-24 21:14:00.000 +0530,1,2025-08-25 21:14:00.000 +0530,1,2025-08-25 21:24:00.000 +0530,1,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,6266290425,95280486,2025-08-24 21:27:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,6281273233,94764111,2025-08-24 11:56:00.000 +0530,1,2025-08-25 11:56:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,6285146068,99521213,2025-08-24 12:28:00.000 +0530,1,2025-08-27 12:28:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,6296677591,98440077,2025-08-24 21:08:00.000 +0530,1,,,,,Community,No,East,Yes
+Third party,Vendor 1,Third party email,"",,6303872988,94071951,2025-08-24 08:35:00.000 +0530,1,2025-08-27 08:35:00.000 +0530,1,2025-08-27 09:05:00.000 +0530,1,Community,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,6320756360,91372085,2025-08-24 22:45:00.000 +0530,1,2025-08-25 22:45:00.000 +0530,1,2025-08-25 23:15:00.000 +0530,1,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,6341727901,99502096,2025-08-24 09:20:00.000 +0530,1,2025-08-26 09:20:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,6345537033,90266933,2025-08-24 13:13:00.000 +0530,1,2025-08-27 13:13:00.000 +0530,1,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,6383786516,93497236,2025-08-24 15:36:00.000 +0530,1,2025-08-26 15:36:00.000 +0530,1,2025-08-26 15:41:00.000 +0530,1,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,6420365446,98521175,2025-08-24 18:11:00.000 +0530,1,2025-08-26 18:11:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,6454220828,91629686,2025-08-24 17:12:00.000 +0530,1,,,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,6461738410,91931681,2025-08-24 16:10:00.000 +0530,1,,,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,6541377611,90427504,2025-08-24 14:14:00.000 +0530,1,2025-08-25 14:14:00.000 +0530,2,2025-08-25 14:19:00.000 +0530,1,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,6548911695,96894743,2025-08-24 22:01:00.000 +0530,1,2025-08-27 22:01:00.000 +0530,1,2025-08-27 22:06:00.000 +0530,1,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,6589498631,91237901,2025-08-24 00:13:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,6610052903,91106676,2025-08-24 16:03:00.000 +0530,1,,,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,6644131351,95047531,2025-08-24 23:36:00.000 +0530,1,,,,,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,6648368084,93725586,2025-08-24 04:25:00.000 +0530,1,2025-08-27 04:25:00.000 +0530,1,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,6688485032,95353297,2025-08-24 16:59:00.000 +0530,1,2025-08-25 16:59:00.000 +0530,1,2025-08-25 17:29:00.000 +0530,1,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,6704058746,96120702,2025-08-24 22:05:00.000 +0530,1,,,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,6756702454,95929093,2025-08-24 17:51:00.000 +0530,1,,,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,6757427456,94659030,2025-08-24 08:39:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,6820423278,98482550,2025-08-24 02:53:00.000 +0530,1,2025-08-27 02:53:00.000 +0530,1,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,6853817619,90538411,2025-08-24 19:32:00.000 +0530,1,,,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,6870024789,93378890,2025-08-24 05:23:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,6873213378,91965770,2025-08-24 05:59:00.000 +0530,1,2025-08-26 05:59:00.000 +0530,1,2025-08-26 06:09:00.000 +0530,1,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,6880028968,91759574,2025-08-24 03:22:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,6896104308,93965171,2025-08-24 04:24:00.000 +0530,1,2025-08-27 04:24:00.000 +0530,1,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,6909063856,95280616,2025-08-24 14:36:00.000 +0530,1,2025-08-26 14:36:00.000 +0530,1,,,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,6915214046,95496763,2025-08-24 15:21:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,6938640828,96803383,2025-08-24 15:13:00.000 +0530,1,,,,,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,6940975018,97209731,2025-08-24 00:37:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,6978549961,96979633,2025-08-24 21:20:00.000 +0530,1,2025-08-26 21:20:00.000 +0530,1,2025-08-26 21:30:00.000 +0530,1,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,7008817217,98967523,2025-08-24 10:31:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,7024903305,95437780,2025-08-24 15:39:00.000 +0530,1,2025-08-27 15:39:00.000 +0530,2,,,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,7026086165,96707589,2025-08-24 08:29:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,7033171209,90076611,2025-08-24 09:25:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,7095131579,90479223,2025-08-24 02:51:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,7130578419,97299218,2025-08-24 06:41:00.000 +0530,1,,,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,7146094642,94140494,2025-08-24 09:04:00.000 +0530,1,,,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,7152956280,99704361,2025-08-24 01:00:00.000 +0530,1,,,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,7194980738,91240821,2025-08-24 22:39:00.000 +0530,1,2025-08-25 22:39:00.000 +0530,1,2025-08-25 22:44:00.000 +0530,1,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,7213538993,94700269,2025-08-24 15:16:00.000 +0530,1,2025-08-26 15:16:00.000 +0530,1,,,Community,Yes,North,No
+Third party,Vendor 1,Third party email,"",,7239917589,98353756,2025-08-24 15:54:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,7242164496,92510605,2025-08-24 22:10:00.000 +0530,1,,,,,Community,Yes,North,No
+Third party,Vendor 1,Third party email,"",,7245569779,99645451,2025-08-24 11:03:00.000 +0530,1,,,,,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,7262229143,91563973,2025-08-24 19:43:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,7292836770,98852889,2025-08-24 23:45:00.000 +0530,1,2025-08-25 23:45:00.000 +0530,1,,,Community,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,7301913431,99865406,2025-08-24 14:11:00.000 +0530,1,,,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,7321662816,90587535,2025-08-24 00:55:00.000 +0530,1,2025-08-27 00:55:00.000 +0530,1,,,Community,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,7342376173,95791287,2025-08-24 22:12:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,7417352295,91236939,2025-08-24 01:17:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,7467872023,95250270,2025-08-24 13:37:00.000 +0530,1,2025-08-25 13:37:00.000 +0530,1,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,7485583729,95066571,2025-08-24 21:54:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,7534439122,91468373,2025-08-24 01:53:00.000 +0530,1,2025-08-25 01:53:00.000 +0530,1,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,7550035147,90222633,2025-08-24 22:33:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,7572181910,98110345,2025-08-24 09:32:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,7574048096,90675259,2025-08-24 20:06:00.000 +0530,1,,,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,7574465138,98429751,2025-08-24 19:47:00.000 +0530,1,,,,,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,7622943911,90351954,2025-08-24 17:17:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,7633313549,90480237,2025-08-24 00:22:00.000 +0530,1,2025-08-25 00:22:00.000 +0530,1,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,7643614184,92852374,2025-08-24 19:07:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,7702382799,94298885,2025-08-24 08:31:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,7703397303,93042023,2025-08-24 07:47:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,7726725695,96876851,2025-08-24 16:52:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,7738374268,91715317,2025-08-24 22:23:00.000 +0530,1,,,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,7746343323,99778969,2025-08-24 01:38:00.000 +0530,1,,,,,Academic,No,Central,No
+Third party,Vendor 1,Third party email,"",,7748212871,98707101,2025-08-24 05:41:00.000 +0530,1,2025-08-26 05:41:00.000 +0530,1,2025-08-26 05:51:00.000 +0530,1,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,7783409150,90745485,2025-08-24 14:30:00.000 +0530,1,2025-08-27 14:30:00.000 +0530,1,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,7825009999,97813747,2025-08-24 22:20:00.000 +0530,1,2025-08-27 22:20:00.000 +0530,1,2025-08-27 22:50:00.000 +0530,1,Community,Yes,North,No
+Third party,Vendor 1,Third party email,"",,7835800132,96850842,2025-08-24 10:45:00.000 +0530,1,2025-08-26 10:45:00.000 +0530,1,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,7856494865,90285973,2025-08-24 09:31:00.000 +0530,1,2025-08-27 09:31:00.000 +0530,1,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,7902456857,94955111,2025-08-24 12:44:00.000 +0530,1,2025-08-26 12:44:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,7908154011,91191398,2025-08-24 03:03:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,7922972265,92464274,2025-08-24 11:36:00.000 +0530,1,,,,,Academic,No,South,Yes
+Third party,Vendor 1,Third party email,"",,7986388079,91235505,2025-08-24 12:46:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,7990880380,97307599,2025-08-24 10:01:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,7998989637,98090498,2025-08-24 06:57:00.000 +0530,1,,,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,8008942487,96051047,2025-08-24 20:41:00.000 +0530,1,2025-08-25 20:41:00.000 +0530,1,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,8040442934,92481833,2025-08-24 16:04:00.000 +0530,1,,,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,8047976913,90994090,2025-08-24 14:12:00.000 +0530,1,2025-08-27 14:12:00.000 +0530,1,2025-08-27 14:22:00.000 +0530,1,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,8063277173,97581386,2025-08-24 11:21:00.000 +0530,1,2025-08-27 11:21:00.000 +0530,1,2025-08-27 11:26:00.000 +0530,1,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,8074643627,97809997,2025-08-24 20:42:00.000 +0530,1,2025-08-25 20:42:00.000 +0530,1,2025-08-25 21:12:00.000 +0530,1,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,8104238592,98976256,2025-08-24 11:28:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,8110451388,97918421,2025-08-24 01:04:00.000 +0530,1,2025-08-26 01:04:00.000 +0530,1,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,8120434166,93176766,2025-08-24 10:16:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,8169434595,93061261,2025-08-24 17:27:00.000 +0530,1,2025-08-27 17:27:00.000 +0530,1,2025-08-27 17:57:00.000 +0530,1,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,8212675158,97672825,2025-08-24 09:55:00.000 +0530,1,,,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,8277630112,91443324,2025-08-24 18:32:00.000 +0530,1,2025-08-27 18:32:00.000 +0530,1,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,8315038763,95902435,2025-08-24 02:33:00.000 +0530,1,2025-08-27 02:33:00.000 +0530,1,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,8342761370,90600608,2025-08-24 23:31:00.000 +0530,1,2025-08-25 23:31:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,8344485374,95562035,2025-08-24 18:46:00.000 +0530,1,,,,,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,8396049615,91361327,2025-08-24 00:09:00.000 +0530,1,,,,,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,8428225882,97554750,2025-08-24 05:03:00.000 +0530,1,,,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,8440642093,98242572,2025-08-24 00:38:00.000 +0530,1,2025-08-27 00:38:00.000 +0530,1,2025-08-27 01:08:00.000 +0530,1,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,8466198703,97047732,2025-08-24 12:21:00.000 +0530,1,2025-08-27 12:21:00.000 +0530,1,,,Academic,Yes,South,No
+Third party,Vendor 1,Third party email,"",,8516762601,92806742,2025-08-24 08:59:00.000 +0530,1,2025-08-26 08:59:00.000 +0530,1,,,Community,No,West,No
+Third party,Vendor 1,Third party email,"",,8517365553,95962666,2025-08-24 02:35:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,8561811692,96774130,2025-08-24 21:31:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,8562443385,99072389,2025-08-24 23:25:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,8634763671,91667143,2025-08-24 08:09:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,8652304801,90131045,2025-08-24 12:58:00.000 +0530,1,,,,,Community,No,South,No
+Third party,Vendor 1,Third party email,"",,8668981053,90854935,2025-08-24 17:31:00.000 +0530,1,,,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,8689198717,98077431,2025-08-24 13:03:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,8710854127,95636520,2025-08-24 13:10:00.000 +0530,1,2025-08-25 13:10:00.000 +0530,1,,,Community,No,East,Yes
+Third party,Vendor 1,Third party email,"",,8714251714,95268454,2025-08-24 03:32:00.000 +0530,1,,,,,Community,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,8716326323,91728109,2025-08-24 03:02:00.000 +0530,1,,,,,Community,No,North,Yes
+Third party,Vendor 1,Third party email,"",,8734990001,94865242,2025-08-24 14:52:00.000 +0530,1,2025-08-26 14:52:00.000 +0530,1,,,Academic,Yes,West,Yes
+Third party,Vendor 1,Third party email,"",,8735469633,98239307,2025-08-24 15:34:00.000 +0530,1,2025-08-27 15:34:00.000 +0530,1,2025-08-27 16:04:00.000 +0530,1,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,8842806887,95163007,2025-08-24 03:26:00.000 +0530,1,,,,,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,8896666694,95732257,2025-08-24 01:45:00.000 +0530,1,,,,,Academic,Yes,East,No
+Third party,Vendor 1,Third party email,"",,8913591313,91976677,2025-08-24 21:20:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,8960112550,94980761,2025-08-24 16:29:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,8967590147,98071458,2025-08-24 13:00:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,8971146158,97423173,2025-08-24 08:24:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,8976084157,91168893,2025-08-24 09:57:00.000 +0530,1,2025-08-27 09:57:00.000 +0530,1,2025-08-27 10:27:00.000 +0530,1,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,8985191519,95920994,2025-08-24 21:33:00.000 +0530,1,2025-08-25 21:33:00.000 +0530,1,,,Community,Yes,South,No
+Third party,Vendor 1,Third party email,"",,9023364223,92281527,2025-08-24 13:53:00.000 +0530,1,2025-08-27 13:53:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,9049932732,93531760,2025-08-24 10:34:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,9064795256,95764741,2025-08-24 06:59:00.000 +0530,1,2025-08-25 06:59:00.000 +0530,1,,,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,9065339316,93570093,2025-08-24 23:38:00.000 +0530,1,2025-08-25 23:38:00.000 +0530,1,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,9100712337,96584783,2025-08-24 10:23:00.000 +0530,1,2025-08-25 10:23:00.000 +0530,1,,,Academic,No,West,Yes
+Third party,Vendor 1,Third party email,"",,9123510107,90643736,2025-08-24 15:28:00.000 +0530,1,2025-08-27 15:28:00.000 +0530,1,,,Academic,Yes,North,No
+Third party,Vendor 1,Third party email,"",,9131243770,95176386,2025-08-24 18:00:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,9167251345,92585655,2025-08-24 09:06:00.000 +0530,1,,,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,9190567827,99667903,2025-08-24 00:25:00.000 +0530,1,,,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,9198460954,95326614,2025-08-24 14:18:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,9228151403,96925821,2025-08-24 20:51:00.000 +0530,1,,,,,Community,No,East,No
+Third party,Vendor 1,Third party email,"",,9272513452,93820636,2025-08-24 20:20:00.000 +0530,1,,,,,Academic,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,9275706119,97294349,2025-08-24 23:09:00.000 +0530,1,2025-08-27 23:09:00.000 +0530,1,,,Community,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,9328793684,95470325,2025-08-24 12:50:00.000 +0530,1,2025-08-26 12:50:00.000 +0530,1,2025-08-26 13:00:00.000 +0530,1,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,9349525745,90644342,2025-08-24 21:08:00.000 +0530,1,,,,,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,9360245349,97777184,2025-08-24 14:11:00.000 +0530,1,,,,,Community,No,South,Yes
+Third party,Vendor 1,Third party email,"",,9368485742,99264093,2025-08-24 02:33:00.000 +0530,1,,,,,Academic,No,East,No
+Third party,Vendor 1,Third party email,"",,9382261742,97281149,2025-08-24 09:53:00.000 +0530,1,,,,,Community,Yes,Central,Yes
+Third party,Vendor 1,Third party email,"",,9403438001,97009319,2025-08-24 05:03:00.000 +0530,1,,,,,Academic,Yes,West,No
+Third party,Vendor 1,Third party email,"",,9423658696,90131958,2025-08-24 21:28:00.000 +0530,1,,,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,9461396031,96201914,2025-08-24 11:36:00.000 +0530,1,2025-08-26 11:36:00.000 +0530,1,2025-08-26 11:41:00.000 +0530,1,Academic,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,9463438868,96339178,2025-08-24 04:30:00.000 +0530,1,,,,,Academic,No,South,No
+Third party,Vendor 1,Third party email,"",,9467197276,99522619,2025-08-24 09:30:00.000 +0530,1,,,,,Community,Yes,East,No
+Third party,Vendor 1,Third party email,"",,9468517720,98876764,2025-08-24 23:38:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,9506737670,90745009,2025-08-24 05:11:00.000 +0530,1,2025-08-27 05:11:00.000 +0530,1,2025-08-27 05:16:00.000 +0530,1,Academic,No,North,No
+Third party,Vendor 1,Third party email,"",,9514212681,91068868,2025-08-24 10:20:00.000 +0530,1,,,,,Academic,Yes,North,Yes
+Third party,Vendor 1,Third party email,"",,9520554589,94087956,2025-08-24 10:27:00.000 +0530,1,,,,,Academic,Yes,East,Yes
+Third party,Vendor 1,Third party email,"",,9521677437,96927705,2025-08-24 07:43:00.000 +0530,1,,,,,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,9546575810,90822760,2025-08-24 11:16:00.000 +0530,1,,,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,9549069151,94505723,2025-08-24 18:20:00.000 +0530,1,,,,,Academic,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,9554511059,92483700,2025-08-24 08:20:00.000 +0530,1,2025-08-27 08:20:00.000 +0530,1,2025-08-27 08:25:00.000 +0530,1,Community,No,North,No
+Third party,Vendor 1,Third party email,"",,9620455439,95646889,2025-08-24 14:58:00.000 +0530,1,,,,,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,9668364416,99182684,2025-08-24 01:24:00.000 +0530,1,2025-08-27 01:24:00.000 +0530,1,2025-08-27 01:54:00.000 +0530,1,Community,Yes,Central,No
+Third party,Vendor 1,Third party email,"",,9678129082,97756580,2025-08-24 18:11:00.000 +0530,1,2025-08-26 18:11:00.000 +0530,1,2025-08-26 18:16:00.000 +0530,1,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,9757573812,95956605,2025-08-24 04:36:00.000 +0530,1,2025-08-26 04:36:00.000 +0530,1,,,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,9785344160,96306672,2025-08-24 17:52:00.000 +0530,1,2025-08-26 17:52:00.000 +0530,1,2025-08-26 18:22:00.000 +0530,1,Community,No,West,Yes
+Third party,Vendor 1,Third party email,"",,9821582445,98405095,2025-08-24 12:19:00.000 +0530,1,,,,,Academic,No,West,No
+Third party,Vendor 1,Third party email,"",,9834599992,99645759,2025-08-24 08:58:00.000 +0530,1,2025-08-26 08:58:00.000 +0530,1,2025-08-26 09:03:00.000 +0530,1,Academic,No,Central,Yes
+Third party,Vendor 1,Third party email,"",,9853552269,93461760,2025-08-24 13:06:00.000 +0530,1,,,,,Academic,No,North,Yes
+Third party,Vendor 1,Third party email,"",,9873218301,93998801,2025-08-24 04:50:00.000 +0530,1,2025-08-25 04:50:00.000 +0530,1,2025-08-25 05:00:00.000 +0530,1,Community,Yes,South,Yes
+Third party,Vendor 1,Third party email,"",,9874127793,92281781,2025-08-24 08:40:00.000 +0530,1,,,,,Community,No,Central,No
+Third party,Vendor 1,Third party email,"",,9886180005,98208118,2025-08-24 01:36:00.000 +0530,1,2025-08-26 01:36:00.000 +0530,2,,,Academic,No,East,Yes
+Third party,Vendor 1,Third party email,"",,9950509233,93201056,2025-08-24 14:24:00.000 +0530,1,2025-08-27 14:24:00.000 +0530,1,,,Community,Yes,West,No
+Third party,Vendor 1,Third party email,"",,9988889896,90415400,2025-08-24 04:55:00.000 +0530,1,2025-08-25 04:55:00.000 +0530,1,,,Academic,No,South,No
